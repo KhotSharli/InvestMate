@@ -82,7 +82,7 @@ export const EditAccountSheet = () => {
                             onSubmit={onSubmit}
                             disabled={isPending}
                             defaultValues={defaultValues}
-                            onDelete={onDelete} // Properly handle onDelete
+                            onDelete={() => deleteMutation.mutate()} // Properly handle onDelete
                         />
                     )}
                 </SheetContent>
