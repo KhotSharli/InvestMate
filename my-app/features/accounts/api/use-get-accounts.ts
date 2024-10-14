@@ -1,20 +1,20 @@
-import { useQuery } from "@tanstack/react-query"; 
-import { client } from "@/lib/hono"; // Ensure this path is correct
+import { useQuery } from "@tanstack/react-query";
+
+import { client } from "@/lib/hono";
 
 export const useGetAccounts = () => {
-    const query = useQuery({
-        queryKey: ["accounts"], // Unique key for this query
-        queryFn: async () => {
-            const response = await client.api.accounts.$get(); // This should now work if accounts is defined
+  const query = useQuery({
+    queryKey: ["accounts"],
+    queryFn: async () => {
+      const response = await client.api.accounts.$get();
 
-            if (!response.ok) {
-                throw new Error("Failed to fetch accounts"); // Note the typo fix
-            }
+      if (!response.ok) throw new Error("Failed to fetch accounts.");
 
-            const { data } = await response.json();
-            return data; // Returning the fetched accounts
-        },
-    });
+      const { data } = await response.json();
 
-    return query; // Returning the query object
+      return data;
+    },
+  });
+
+  return query;
 };

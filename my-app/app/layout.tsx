@@ -28,7 +28,7 @@ export default function RootLayout({
         <body className={inter.className}>
           <QueryProviders>
             <SheetProvider />
-            <Toaster />
+            <Toaster richColors theme="light"/>
           {children}
           </QueryProviders>
         </body>

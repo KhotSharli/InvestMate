@@ -15,6 +15,20 @@
       "when": 1728292394493,
       "tag": "0001_certain_reavers",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1728887702275,
+      "tag": "0002_quiet_jasper_sitwell",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1728890923319,
+      "tag": "0003_greedy_lilith",
+      "breakpoints": true
     }
   ]
 }
