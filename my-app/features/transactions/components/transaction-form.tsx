@@ -3,9 +3,9 @@ import { Trash } from "lucide-react";
 import { useForm } from "react-hook-form";
 import { z } from "zod";
 
-import { AmountInput } from "@/components/ui/amount-input";
-import { DatePicker } from "@/components/ui/date-picker";
-import { Select } from "@/components/ui/select";
+import { AmountInput } from "@/components/amount-input";
+import { DatePicker } from "@/components/date-picker";
+import { Select } from "@/components/select";
 import { Button } from "@/components/ui/button";
 import {
   Form,
@@ -29,7 +29,6 @@ const formSchema = z.object({
   notes: z.string().nullable().optional(),
 });
 
-// eslint-disable-next-line @typescript-eslint/no-unused-vars
 const apiSchema = insertTransactionSchema.omit({
   id: true,
 });

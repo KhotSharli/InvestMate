@@ -65,7 +65,7 @@ export const CategoryForm = ({
               <FormLabel>Name</FormLabel>
 
               <FormControl>
-                <Input placeholder="e.g. Food, Travel, etc" {...field} />
+                <Input placeholder="e.g. Food, Travel, etc." {...field} />
               </FormControl>
 
               <FormMessage />

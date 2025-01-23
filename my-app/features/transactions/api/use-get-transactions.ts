@@ -24,8 +24,8 @@ export const useGetTransactions = () => {
       if (!response.ok) throw new Error("Failed to fetch transactions.");
 
       const { data } = await response.json();
-      
-      return data.map((transaction: { amount: number; }) => ({
+
+      return data.map((transaction) => ({
         ...transaction,
         amount: convertAmountFromMilliunits(transaction.amount),
       }));

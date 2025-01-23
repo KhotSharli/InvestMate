@@ -13,11 +13,10 @@ import { useDeleteAccount } from "@/features/accounts/api/use-delete-account";
 import { useEditAccount } from "@/features/accounts/api/use-edit-account";
 import { useGetAccount } from "@/features/accounts/api/use-get-account";
 import { useOpenAccount } from "@/features/accounts/hooks/use-open-account";
-import { useConfirm } from "../hooks/use-confirm"; 
+import { useConfirm } from "@/hooks/use-confirm";
 
 import { AccountForm } from "./account-form";
 
-// eslint-disable-next-line @typescript-eslint/no-unused-vars
 const formSchema = insertAccountSchema.pick({
   name: true,
 });

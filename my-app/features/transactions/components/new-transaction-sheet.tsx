@@ -14,11 +14,10 @@ import { useGetAccounts } from "@/features/accounts/api/use-get-accounts";
 import { useCreateCategory } from "@/features/categories/api/use-create-category";
 import { useGetCategories } from "@/features/categories/api/use-get-categories";
 import { useCreateTransaction } from "@/features/transactions/api/use-create-transaction";
-import { useNewTransaction } from "../hooks/use-new-transaction";
+import { useNewTransaction } from "@/features/transactions/hooks/use-new-transaction";
 
 import { TransactionForm } from "./transaction-form";
 
-// eslint-disable-next-line @typescript-eslint/no-unused-vars
 const formSchema = insertTransactionSchema.omit({ id: true });
 
 type FormValues = z.infer<typeof formSchema>;
@@ -29,14 +28,14 @@ export const NewTransactionSheet = () => {
   const createMutation = useCreateTransaction();
   const categoryMutation = useCreateCategory();
   const categoryQuery = useGetCategories();
-  const categoryOptions = (categoryQuery.data ?? []).map((category: { name: unknown; id: unknown; }) => ({
+  const categoryOptions = (categoryQuery.data ?? []).map((category) => ({
     label: category.name,
     value: category.id,
   }));
 
   const accountMutation = useCreateAccount();
   const accountQuery = useGetAccounts();
-  const accountOptions = (accountQuery.data ?? []).map((account: { name: unknown; id: unknown; }) => ({
+  const accountOptions = (accountQuery.data ?? []).map((account) => ({
     label: account.name,
     value: account.id,
   }));

@@ -1,4 +1,3 @@
-/* eslint-disable @typescript-eslint/no-explicit-any */
 import { format, parse } from "date-fns";
 import { useState } from "react";
 

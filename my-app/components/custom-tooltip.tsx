@@ -16,7 +16,15 @@ type CustomTooltipProps = {
 export const CustomTooltip = ({ active, payload }: CustomTooltipProps) => {
   if (!active || !payload) return null;
 
-  const date = payload[0].payload.date as Date;
+  const dateString = payload[0].payload.date as string; // Assume it's a string
+  const date = new Date(dateString); // Convert to Date object
+
+  // Check if date is valid
+  if (isNaN(date.getTime())) {
+    console.error("Invalid date:", dateString);
+    return null; // Handle invalid date
+  }
+
   const income = payload[0].value as number;
   const expenses = payload[1].value as number;
 

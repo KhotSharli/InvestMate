@@ -27,6 +27,10 @@ const routes = [
     href: "/categories",
     label: "Categories",
   },
+  {
+    href: "/ask-gemini",
+    label: "Ask Questions",
+  },
 ];
 
 export const Navigation = () => {

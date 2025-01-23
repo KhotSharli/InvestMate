@@ -19,6 +19,13 @@ type AreaVariantProps = {
 };
 
 export const AreaVariant = ({ data }: AreaVariantProps) => {
+  // Data validation
+  const isValidData = data.every(item => !isNaN(new Date(item.date).getTime()));
+  if (!isValidData) {
+    console.error("Invalid date values in data:", data);
+    return null; // or return some fallback UI
+  }
+
   return (
     <ResponsiveContainer width="100%" height={350}>
       <AreaChart data={data}>
@@ -39,7 +46,10 @@ export const AreaVariant = ({ data }: AreaVariantProps) => {
           axisLine={false}
           tickLine={false}
           dataKey="date"
-          tickFormatter={(value) => format(value, "dd MMM")}
+          tickFormatter={(value) => {
+            const parsedDate = new Date(value);
+            return isNaN(parsedDate.getTime()) ? value : format(parsedDate, "dd MMM");
+          }}
           style={{
             fontSize: "12px",
           }}

@@ -9,11 +9,10 @@ import {
 } from "@/components/ui/sheet";
 import { insertCategorySchema } from "@/db/schema";
 import { useCreateCategory } from "@/features/categories/api/use-create-category";
-import { useNewCategory } from "../hooks/use-new-category"; 
+import { useNewCategory } from "@/features/categories/hooks/use-new-category";
 
 import { CategoryForm } from "./category-form";
 
-// eslint-disable-next-line @typescript-eslint/no-unused-vars
 const formSchema = insertCategorySchema.pick({
   name: true,
 });
@@ -39,7 +38,7 @@ export const NewCategorySheet = () => {
           <SheetTitle>New Category</SheetTitle>
 
           <SheetDescription>
-            Create a new category to track your transactions.
+            Create a new category to organize your transactions.
           </SheetDescription>
         </SheetHeader>
 

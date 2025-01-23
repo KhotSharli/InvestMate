@@ -13,18 +13,17 @@ import { useDeleteCategory } from "@/features/categories/api/use-delete-category
 import { useEditCategory } from "@/features/categories/api/use-edit-category";
 import { useGetCategory } from "@/features/categories/api/use-get-category";
 import { useOpenCategory } from "@/features/categories/hooks/use-open-category";
-import { useConfirm } from "../hooks/use-confirm"; 
+import { useConfirm } from "@/hooks/use-confirm";
 
 import { CategoryForm } from "./category-form";
 
-// eslint-disable-next-line @typescript-eslint/no-unused-vars
 const formSchema = insertCategorySchema.pick({
   name: true,
 });
 
 type FormValues = z.infer<typeof formSchema>;
 
-export const EditCAtegorySheet = () => {
+export const EditCategorySheet = () => {
   const { isOpen, onClose, id } = useOpenCategory();
 
   const [ConfirmDialog, confirm] = useConfirm(

@@ -25,7 +25,7 @@ export const TableHeadSelect = ({
   return (
     <Select
       value={currentSelection || ""}
-      onValueChange={(value: string | null) => onChange(columnIndex, value)}
+      onValueChange={(value) => onChange(columnIndex, value)}
     >
       <SelectTrigger
         className={cn(

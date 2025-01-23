@@ -9,11 +9,10 @@ import {
 } from "@/components/ui/sheet";
 import { insertAccountSchema } from "@/db/schema";
 import { useCreateAccount } from "@/features/accounts/api/use-create-account";
-import { useNewAccount } from "../hooks/use-new-account"; 
+import { useNewAccount } from "@/features/accounts/hooks/use-new-account";
 
 import { AccountForm } from "./account-form";
 
-// eslint-disable-next-line @typescript-eslint/no-unused-vars
 const formSchema = insertAccountSchema.pick({
   name: true,
 });
