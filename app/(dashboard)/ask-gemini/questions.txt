@@ -1,0 +1,205 @@
+Short / Low-Token Questions
+What is TCS’s revenue?
+
+Net profit of Infosys in 2023?
+
+EPS trend for HDFC Bank?
+
+Assets of Axis Bank in 2024?
+
+ICICI Bank’s ROE?
+
+Debt-to-equity ratio of Tata Motors?
+
+Profit before tax for PNB?
+
+Operating margin of HDFCLIFE?
+
+Bandhan Bank’s gross NPA?
+
+Dividend payout by CANBK?
+
+🔸 Medium-Length Questions
+What is the 5-year revenue CAGR of Infosys?
+
+How did HDFC Bank perform during COVID?
+
+Compare Tata Motors’ net profit in 2020 and 2023.
+
+What is ICICIBANK’s provisioning coverage ratio?
+
+Show the growth in net interest income for AXISBANK.
+
+What were the major expense categories for TCS in 2024?
+
+What is the shareholding pattern of HDFCLIFE?
+
+How has PNB reduced its NPA levels since 2017?
+
+Describe the profitability of Bandhan Bank in FY 2021-22.
+
+What was the capital adequacy ratio of CANBK in FY 2023?
+
+🔹 Longer / Higher-Token Questions
+How has Infosys managed its employee cost and headcount over the last 5 years?
+
+What were the key business highlights for TCS in the 2022-23 annual report?
+
+Compare net profit margin trends for ICICIBANK and AXISBANK from 2016–2024.
+
+What are the strategic initiatives mentioned by Tata Motors in FY 2024-25?
+
+How has HDFCBANK diversified its revenue streams over the years?
+
+What are the key risks and mitigations reported by PNB in the last 3 years?
+
+What is the trend in mutual fund AUM for ICICIGI over the last 5 years?
+
+What changes in asset allocation are seen in ITI_MF’s portfolio since 2020?
+
+Which sectors ABSLAMC is overweight or underweight on as of FY 2023-24?
+
+What are the fee income and expense ratios reported by CANBK_MF?
+
+🔸 Very Detailed / Deep Retrieval Questions
+List all CSR initiatives disclosed by ICICIBANK from 2016 to 2024.
+
+Summarize the management discussion and analysis section for INFY FY 2022-23.
+
+What changes in lending strategy are mentioned by AXISBANK across the reports?
+
+Compare year-on-year operating cash flows of HDFCLIFE for the last 10 years.
+
+What were the key takeaways from the Board of Directors’ report for Tata Motors?
+
+What auditor qualifications or remarks appear in Bandhan Bank’s annual filings?
+
+Describe the evolution of ICICIGI_MF’s investment strategy since inception.
+
+What are the main capital expenditure projects mentioned by TCS recently?
+
+How does the credit quality of ABSLAMC’s portfolio compare year-on-year?
+
+What governance issues or improvements are discussed in PNB reports?
+
+🧠 Analytical / Reasoning-Oriented Questions
+What are the leading indicators of business performance in HDFC Bank’s filings?
+
+Which company showed the most consistent PAT growth from 2016 to 2024?
+
+How have interest rate changes affected loan growth in Bandhan Bank?
+
+Compare the capital raising strategies across ICICI, Axis, and HDFC banks.
+
+Which mutual funds underperformed their benchmark over the last 3 years?
+
+How did regulatory changes affect CANBK’s financials during FY 2021?
+
+What macroeconomic factors impacted Tata Motors’ performance in 2023?
+
+Summarize the risk management framework outlined in Infosys’ filings.
+
+Compare the employee benefit expenses of all banks across FY 2022-23.
+
+What do the companies report about their ESG strategies in the last 3 years?
+
+Based on the annual reports from 2016–2024, how has Infosys adapted its business strategy, investment priorities, and technology innovation approach in response to global digital transformation trends and shifting client expectations?
+
+Can you provide a detailed analysis of TCS’s revenue composition, including the percentage of revenue derived from key geographies, industries, and service lines across the last 10 financial years?
+
+What were the major changes in the loan book composition, risk-weighted assets, and provisioning norms for ICICI Bank from FY 2016-17 to FY 2024-25, and how did those changes impact its capital adequacy ratio?
+
+Please summarize HDFC Bank’s digital transformation journey as outlined in its annual filings, highlighting key technology investments, strategic partnerships, and digital product launches between 2017 and 2024.
+
+What insights can be drawn from the recurring themes in Tata Motors’ Management Discussion and Analysis sections over the last 10 years with respect to electrification, product innovation, and global expansion?
+
+How did Axis Bank manage asset quality and credit risk through economic downturns and regulatory shifts from 2016 to 2024, and what tools or frameworks were adopted to mitigate NPAs?
+
+Provide a comparative breakdown of the profit and loss statements of PNB for FY 2017-18, FY 2019-20, and FY 2023-24, with special attention to interest income, provisioning, and net profit trends.
+
+Based on HDFC Life’s annual reports, how did changes in actuarial assumptions, mortality risk, and embedded value calculations influence reported profits and shareholder value between FY 2016 and FY 2024?
+
+Detail the evolution of the cost-to-income ratio, operational efficiency initiatives, and digital process automation in Bandhan Bank from FY 2018 through FY 2024.
+
+What detailed ESG (Environmental, Social, and Governance) initiatives were reported by TCS in each year from 2016 to 2024, and how do they align with global sustainability reporting frameworks like GRI and SASB?
+
+How has ICICIGI Mutual Fund adjusted its asset allocation strategy over the last five years, particularly during times of market volatility, and what impact did these adjustments have on fund performance?
+
+What are the most frequently cited risks in Infosys’s risk management disclosures across its last 10 annual reports, and how has the company’s response to cyber security threats evolved?
+
+How did HDFC Bank navigate the COVID-19 pandemic operationally and financially, including moratorium policies, loan restructuring, and digital service delivery mechanisms, as per its 2020 and 2021 annual reports?
+
+Can you analyze the year-over-year change in segmental revenue, operating profit, and market share for Tata Motors’ domestic vs international commercial vehicle divisions from FY 2016–17 to FY 2023–24?
+
+Please extract and summarize all the qualitative commentary provided by Axis Bank’s board of directors and management on strategic priorities and economic outlook in their FY 2022–23 and FY 2023–24 reports.
+
+From a governance perspective, how has PNB evolved its board composition, internal control systems, and audit observations across its annual reports spanning FY 2016–17 through FY 2024–25?
+
+Detail the mutual fund performance of ABSLAMC over the last five years, including changes in NAV, sector exposure, benchmark comparisons, and commentary on equity vs debt market outlook.
+
+What were the key takeaways from ITI Mutual Fund’s disclosures about its investment philosophy, portfolio rebalancing strategies, and fund performance attribution across the last three years?
+
+Based on consolidated financial statements, how has the return on assets (ROA), return on equity (ROE), and operating margin of Infosys changed annually from 2016 to 2024?
+
+How did changes in RBI monetary policy, repo rates, and inflationary pressures affect the loan pricing, credit uptake, and treasury income for ICICI Bank between FY 2018 and FY 2024?
+
+Can you provide a detailed assessment of how TCS's employee productivity, measured in terms of revenue per employee and billable headcount, has evolved over the last 8 years?
+
+What are the major capital expenditure trends for Tata Motors, including plant expansions, R&D investments, and electric vehicle infrastructure spending over the last 10 annual reports?
+
+Based on all available reports, summarize the year-wise litigation, regulatory penalties, or compliance issues disclosed by HDFC Bank from FY 2016 to FY 2024.
+
+What recurring macroeconomic themes are discussed in Bandhan Bank’s MD&A sections, and how have their strategies evolved in response to regional economic conditions?
+
+Analyze the trend of fee-based income versus interest income for Axis Bank from FY 2017 through FY 2024, and explain the bank’s strategy for revenue diversification.
+
+What are the recurring corporate social responsibility themes highlighted by ICICI Bank over the years, and how much was spent annually under mandatory CSR provisions?
+
+Describe the evolution of PNB’s digital banking initiatives, including mobile banking, API integration, and partnerships with fintechs, as mentioned across the last 10 years of reports.
+
+How have changes in taxation, both corporate and indirect, affected the financial statements and net profits of Infosys and TCS over the past 8 financial years?
+
+Provide an integrated analysis of how ABSLAMC's investment in midcap versus large-cap equities has changed from 2020 to 2024, along with risk-reward commentary from fund managers.
+
+What financial indicators and performance drivers are commonly highlighted in the ICICIGI_MF portfolio commentary from FY 2020–21 through FY 2023–24?
+
+Describe the trends in liquidity coverage ratios, statutory liquidity ratios (SLR), and cash reserve ratios (CRR) across annual filings of CANBK from FY 2017 to FY 2024.
+
+How has the employee benefit expense, including ESOPs and pension liabilities, changed for Infosys across FY 2016 to 2024, and what commentary is provided on HR retention strategy?
+
+Can you summarize how each company in the dataset discussed the impact of geopolitical tensions, such as U.S.-China trade wars and Russia-Ukraine conflicts, in their respective MD&A sections?
+
+What are the year-wise changes in impairment losses, provisioning methods, and expected credit loss models implemented by HDFC Life Insurance, especially under new accounting standards?
+
+Based on 10 years of data, analyze how revenue seasonality has affected TCS and Infosys, and explain what steps are taken to normalize earnings across quarters.
+
+Provide an overview of Bandhan Bank’s microfinance lending strategy and how it has responded to regulatory changes, rural demand cycles, and credit risk dynamics since FY 2016–17.
+
+What year-wise external audit observations or qualifications were reported for Tata Motors, and what was management’s response to each of these remarks?
+
+Describe the trends in asset quality indicators—like gross NPA ratio, net NPA ratio, and slippages—across Axis Bank’s filings over the past 10 years.
+
+How does the capital raising approach—rights issues, QIPs, or debt instruments—of PNB compare to that of ICICI and HDFC Bank over the years?
+
+Extract and summarize all references to foreign currency risks, hedging strategies, and forex exposure management from the TCS annual reports from 2016 to 2024.
+
+Describe how Infosys aligns its sustainability initiatives with United Nations Sustainable Development Goals (SDGs), and how progress is measured annually.
+
+Based on all reports provided, list major M&A (mergers and acquisitions) transactions undertaken by each company, with financial impact and strategic rationale.
+
+What do the various annual reports reveal about the strategies adopted by ABSLAMC for debt duration management and interest rate risk mitigation?
+
+Identify the long-term capital allocation strategy of Tata Motors, especially in the context of transitioning to electric mobility and technology-led manufacturing.
+
+What kinds of third-party assurance, ESG certification, or global benchmarking exercises were mentioned in ICICIBANK and TCS ESG disclosures?
+
+How did the COVID-19 pandemic affect the claim ratios, policy surrender rates, and solvency margins of HDFC Life, based on its FY 2020–21 and FY 2021–22 reports?
+
+Detail the revenue, expense, and profit components of ICICIGI Mutual Fund’s top three schemes and how they were affected by market cycles since 2020.
+
+Analyze how regulatory guidelines from SEBI and RBI have affected the reporting and operational practices of Bandhan Bank and CANBK Mutual Fund.
+
+What were the themes of shareholder concerns raised during AGMs and how did management respond across Axis Bank’s annual reports?
+
+How do the companies report on cybersecurity risks, data privacy frameworks, and internal IT control audits in their annual filings from 2016 to 2024?
+
