@@ -1,0 +1,2960 @@
+[
+ {
+  "Bank Name": "Shriram Transport FD",
+  "Tenure": "12 months",
+  "Regular Customer(%)": 7.8,
+  "Senior Citizen(%)": 8.3
+ },
+ {
+  "Bank Name": "Shriram Transport FD",
+  "Tenure": "18 months",
+  "Regular Customer(%)": 7.95,
+  "Senior Citizen(%)": 8.45
+ },
+ {
+  "Bank Name": "Shriram Transport FD",
+  "Tenure": "24 months",
+  "Regular Customer(%)": 8.1,
+  "Senior Citizen(%)": 8.6
+ },
+ {
+  "Bank Name": "Shriram Transport FD",
+  "Tenure": "30 months",
+  "Regular Customer(%)": 8.3,
+  "Senior Citizen(%)": 8.8
+ },
+ {
+  "Bank Name": "Shriram Transport FD",
+  "Tenure": "36 months",
+  "Regular Customer(%)": 8.5,
+  "Senior Citizen(%)": 9
+ },
+ {
+  "Bank Name": "Shriram Transport FD",
+  "Tenure": "42 months",
+  "Regular Customer(%)": 8.55,
+  "Senior Citizen(%)": 9.05
+ },
+ {
+  "Bank Name": "Shriram Transport FD",
+  "Tenure": "50 months",
+  "Regular Customer(%)": 8.6,
+  "Senior Citizen(%)": 9.1
+ },
+ {
+  "Bank Name": "Shriram Transport FD",
+  "Tenure": "60 months",
+  "Regular Customer(%)": 8.6,
+  "Senior Citizen(%)": 9.1
+ },
+ {
+  "Bank Name": "DHFL FD",
+  "Tenure": "12 months",
+  "Regular Customer(%)": 8.25,
+  "Senior Citizen(%)": 8.65
+ },
+ {
+  "Bank Name": "DHFL FD",
+  "Tenure": "13 months",
+  "Regular Customer(%)": 8.25,
+  "Senior Citizen(%)": 8.65
+ },
+ {
+  "Bank Name": "DHFL FD",
+  "Tenure": "14 months",
+  "Regular Customer(%)": 8.3,
+  "Senior Citizen(%)": 8.7
+ },
+ {
+  "Bank Name": "DHFL FD",
+  "Tenure": "18 months",
+  "Regular Customer(%)": 8.3,
+  "Senior Citizen(%)": 8.7
+ },
+ {
+  "Bank Name": "DHFL FD",
+  "Tenure": "24 months",
+  "Regular Customer(%)": 8.5,
+  "Senior Citizen(%)": 8.9
+ },
+ {
+  "Bank Name": "DHFL FD",
+  "Tenure": "36 months",
+  "Regular Customer(%)": 8.95,
+  "Senior Citizen(%)": 9.35
+ },
+ {
+  "Bank Name": "DHFL FD",
+  "Tenure": "40 months",
+  "Regular Customer(%)": 8.95,
+  "Senior Citizen(%)": 9.35
+ },
+ {
+  "Bank Name": "DHFL FD",
+  "Tenure": "48 months",
+  "Regular Customer(%)": 8.95,
+  "Senior Citizen(%)": 9.35
+ },
+ {
+  "Bank Name": "DHFL FD",
+  "Tenure": "60 months",
+  "Regular Customer(%)": 8.95,
+  "Senior Citizen(%)": 9.35
+ },
+ {
+  "Bank Name": "DHFL FD",
+  "Tenure": "72 months",
+  "Regular Customer(%)": 8.95,
+  "Senior Citizen(%)": 9.35
+ },
+ {
+  "Bank Name": "DHFL FD",
+  "Tenure": "84 months",
+  "Regular Customer(%)": 8.95,
+  "Senior Citizen(%)": 9.35
+ },
+ {
+  "Bank Name": "DHFL FD",
+  "Tenure": "96 months",
+  "Regular Customer(%)": 8.95,
+  "Senior Citizen(%)": 9.35
+ },
+ {
+  "Bank Name": "DHFL FD",
+  "Tenure": "108 months",
+  "Regular Customer(%)": 8.95,
+  "Senior Citizen(%)": 9.35
+ },
+ {
+  "Bank Name": "DHFL FD",
+  "Tenure": "120 months",
+  "Regular Customer(%)": 8.95,
+  "Senior Citizen(%)": 9.35
+ },
+ {
+  "Bank Name": "SBI",
+  "Tenure": "7 days - 45 days",
+  "Regular Customer(%)": 3.5,
+  "Senior Citizen(%)": 4
+ },
+ {
+  "Bank Name": "SBI",
+  "Tenure": "46 days 179 days",
+  "Regular Customer(%)": 5.5,
+  "Senior Citizen(%)": 6
+ },
+ {
+  "Bank Name": "SBI",
+  "Tenure": "180 days 210 days",
+  "Regular Customer(%)": 6.25,
+  "Senior Citizen(%)": 6.75
+ },
+ {
+  "Bank Name": "SBI",
+  "Tenure": "211 days - 364 days",
+  "Regular Customer(%)": 6.5,
+  "Senior Citizen(%)": 7
+ },
+ {
+  "Bank Name": "SBI",
+  "Tenure": "1 year - 1 year 364 days",
+  "Regular Customer(%)": 6.8,
+  "Senior Citizen(%)": 7.3
+ },
+ {
+  "Bank Name": "SBI",
+  "Tenure": "2 years - 2 years 364 days",
+  "Regular Customer(%)": 7,
+  "Senior Citizen(%)": 7.5
+ },
+ {
+  "Bank Name": "SBI",
+  "Tenure": "3 years - 4 years 364 days",
+  "Regular Customer(%)": 6.75,
+  "Senior Citizen(%)": 7.25
+ },
+ {
+  "Bank Name": "SBI",
+  "Tenure": "5 years - 10 years",
+  "Regular Customer(%)": 6.5,
+  "Senior Citizen(%)": 7.5
+ },
+ {
+  "Bank Name": "SBI",
+  "Tenure": "400 Days ",
+  "Regular Customer(%)": 7.1,
+  "Senior Citizen(%)": 7.6
+ },
+ {
+  "Bank Name": "Equitas",
+  "Tenure": "7 days - 14 days",
+  "Regular Customer(%)": 0.035,
+  "Senior Citizen(%)": 0.04
+ },
+ {
+  "Bank Name": "Equitas",
+  "Tenure": "15 days - 29 days",
+  "Regular Customer(%)": 0.035,
+  "Senior Citizen(%)": 0.04
+ },
+ {
+  "Bank Name": "Equitas",
+  "Tenure": "30 days - 45 days",
+  "Regular Customer(%)": 4,
+  "Senior Citizen(%)": 4.5
+ },
+ {
+  "Bank Name": "Equitas",
+  "Tenure": "46 days - 62 days",
+  "Regular Customer(%)": 4.5,
+  "Senior Citizen(%)": 5
+ },
+ {
+  "Bank Name": "Equitas",
+  "Tenure": "63 days - 90 days",
+  "Regular Customer(%)": 4.5,
+  "Senior Citizen(%)": 5
+ },
+ {
+  "Bank Name": "Equitas",
+  "Tenure": "91 days - 120 days",
+  "Regular Customer(%)": 5.25,
+  "Senior Citizen(%)": 5.75
+ },
+ {
+  "Bank Name": "Equitas",
+  "Tenure": "121 days - 180 days",
+  "Regular Customer(%)": 5.25,
+  "Senior Citizen(%)": 5.75
+ },
+ {
+  "Bank Name": "Equitas",
+  "Tenure": "181 days - 210 days",
+  "Regular Customer(%)": 6.25,
+  "Senior Citizen(%)": 6.75
+ },
+ {
+  "Bank Name": "Equitas",
+  "Tenure": "211 days - 270 days",
+  "Regular Customer(%)": 6.25,
+  "Senior Citizen(%)": 6.75
+ },
+ {
+  "Bank Name": "Equitas",
+  "Tenure": "271 days - 364 days",
+  "Regular Customer(%)": 6.25,
+  "Senior Citizen(%)": 6.75
+ },
+ {
+  "Bank Name": "Equitas",
+  "Tenure": "1 year (365 days)",
+  "Regular Customer(%)": 2.2,
+  "Senior Citizen(%)": 8.7
+ },
+ {
+  "Bank Name": "Equitas",
+  "Tenure": "1 year 1 day",
+  "Regular Customer(%)": 8,
+  "Senior Citizen(%)": 8.5
+ },
+ {
+  "Bank Name": "Equitas",
+  "Tenure": "1 year 2 days - 443 days",
+  "Regular Customer(%)": 8.2,
+  "Senior Citizen(%)": 8.7
+ },
+ {
+  "Bank Name": "Equitas",
+  "Tenure": "444 days",
+  "Regular Customer(%)": 8.5,
+  "Senior Citizen(%)": 9
+ },
+ {
+  "Bank Name": "Equitas",
+  "Tenure": "445 days - 18 months",
+  "Regular Customer(%)": 8.2,
+  "Senior Citizen(%)": 8.7
+ },
+ {
+  "Bank Name": "Equitas",
+  "Tenure": "888 days",
+  "Regular Customer(%)": 8.25,
+  "Senior Citizen(%)": 8.75
+ },
+ {
+  "Bank Name": "Equitas",
+  "Tenure": "18 months 1 day - 2 years",
+  "Regular Customer(%)": 7.75,
+  "Senior Citizen(%)": 8.25
+ },
+ {
+  "Bank Name": "Equitas",
+  "Tenure": "3 years 1 day - 4 years",
+  "Regular Customer(%)": 7.5,
+  "Senior Citizen(%)": 8
+ },
+ {
+  "Bank Name": "Equitas",
+  "Tenure": "4 years 1 day - 10 years",
+  "Regular Customer(%)": 7.25,
+  "Senior Citizen(%)": 7.75
+ },
+ {
+  "Bank Name": "Equitas",
+  "Tenure": "2 years 1 day - 887 days",
+  "Regular Customer(%)": 8,
+  "Senior Citizen(%)": 8.5
+ },
+ {
+  "Bank Name": "Equitas",
+  "Tenure": "889 days - 3 years",
+  "Regular Customer(%)": 8,
+  "Senior Citizen(%)": 8.5
+ },
+ {
+  "Bank Name": "HDFC",
+  "Tenure": "7 days - 14 days",
+  "Regular Customer(%)": 3,
+  "Senior Citizen(%)": 3.5
+ },
+ {
+  "Bank Name": "HDFC",
+  "Tenure": " 15 days - 29 days",
+  "Regular Customer(%)": 3,
+  "Senior Citizen(%)": 3.5
+ },
+ {
+  "Bank Name": "HDFC",
+  "Tenure": "30 days - 45 days",
+  "Regular Customer(%)": 3.5,
+  "Senior Citizen(%)": 4
+ },
+ {
+  "Bank Name": "HDFC",
+  "Tenure": "90 days - 6 months",
+  "Regular Customer(%)": 4.5,
+  "Senior Citizen(%)": 5
+ },
+ {
+  "Bank Name": "HDFC",
+  "Tenure": "6 months 1 days - 9 months",
+  "Regular Customer(%)": 5.75,
+  "Senior Citizen(%)": 6.25
+ },
+ {
+  "Bank Name": "HDFC",
+  "Tenure": "9 months 1 days - 364 days",
+  "Regular Customer(%)": 6,
+  "Senior Citizen(%)": 6.5
+ },
+ {
+  "Bank Name": "HDFC",
+  "Tenure": "1 year - less than 15 months",
+  "Regular Customer(%)": 6.6,
+  "Senior Citizen(%)": 7.1
+ },
+ {
+  "Bank Name": "HDFC",
+  "Tenure": "2 years 11 months - 35 months",
+  "Regular Customer(%)": 7.35,
+  "Senior Citizen(%)": 7.85
+ },
+ {
+  "Bank Name": "HDFC",
+  "Tenure": "3 years 1 day < 4 years 7 months",
+  "Regular Customer(%)": 7,
+  "Senior Citizen(%)": 7.5
+ },
+ {
+  "Bank Name": "HDFC",
+  "Tenure": "5 years 1 day - 10 years",
+  "Regular Customer(%)": 7,
+  "Senior Citizen(%)": 7.5
+ },
+ {
+  "Bank Name": "HDFC",
+  "Tenure": "7 days -14 days",
+  "Regular Customer(%)": 3,
+  "Senior Citizen(%)": 3.5
+ },
+ {
+  "Bank Name": "HDFC",
+  "Tenure": "15 days-29 days",
+  "Regular Customer(%)": 3,
+  "Senior Citizen(%)": 3.5
+ },
+ {
+  "Bank Name": "HDFC",
+  "Tenure": "30 days -45 days",
+  "Regular Customer(%)": 3.5,
+  "Senior Citizen(%)": 4
+ },
+ {
+  "Bank Name": "HDFC",
+  "Tenure": "46 days 60 days",
+  "Regular Customer(%)": 4.25,
+  "Senior Citizen(%)": 4.75
+ },
+ {
+  "Bank Name": "HDFC",
+  "Tenure": "61 days - 90 days",
+  "Regular Customer(%)": 4.5,
+  "Senior Citizen(%)": 5
+ },
+ {
+  "Bank Name": "HDFC",
+  "Tenure": "91 days-184 days",
+  "Regular Customer(%)": 4.75,
+  "Senior Citizen(%)": 5.25
+ },
+ {
+  "Bank Name": "HDFC",
+  "Tenure": "185 days -270 days",
+  "Regular Customer(%)": 5.75,
+  "Senior Citizen(%)": 6.25
+ },
+ {
+  "Bank Name": "HDFC",
+  "Tenure": "271 days -364 days",
+  "Regular Customer(%)": 6,
+  "Senior Citizen(%)": 6.25
+ },
+ {
+  "Bank Name": "HDFC",
+  "Tenure": "1 year less than 15 month",
+  "Regular Customer(%)": 6.7,
+  "Senior Citizen(%)": 7.2
+ },
+ {
+  "Bank Name": "HDFC",
+  "Tenure": "15 months less than 18 months",
+  "Regular Customer(%)": 7.25,
+  "Senior Citizen(%)": 7.8
+ },
+ {
+  "Bank Name": "HDFC",
+  "Tenure": "18 months - 2 years",
+  "Regular Customer(%)": 7.25,
+  "Senior Citizen(%)": 7.75
+ },
+ {
+  "Bank Name": "HDFC",
+  "Tenure": "2 years 1 day - 5 years",
+  "Regular Customer(%)": 7,
+  "Senior Citizen(%)": 7.5
+ },
+ {
+  "Bank Name": "HDFC",
+  "Tenure": "5 years",
+  "Regular Customer(%)": 7,
+  "Senior Citizen(%)": 7.5
+ },
+ {
+  "Bank Name": "HDFC",
+  "Tenure": "5 years 1 day - 10 years",
+  "Regular Customer(%)": 6.9,
+  "Senior Citizen(%)": 7.4
+ },
+ {
+  "Bank Name": "ICICI",
+  "Tenure": "7 days -14 days",
+  "Regular Customer(%)": 3,
+  "Senior Citizen(%)": 3.5
+ },
+ {
+  "Bank Name": "ICICI",
+  "Tenure": "15 days -29 days",
+  "Regular Customer(%)": 3,
+  "Senior Citizen(%)": 3.5
+ },
+ {
+  "Bank Name": "ICICI",
+  "Tenure": "30 days -45 days",
+  "Regular Customer(%)": 3.5,
+  "Senior Citizen(%)": 4
+ },
+ {
+  "Bank Name": "ICICI",
+  "Tenure": "46 days 60 days",
+  "Regular Customer(%)": 4.25,
+  "Senior Citizen(%)": 4.75
+ },
+ {
+  "Bank Name": "ICICI",
+  "Tenure": "91 days-184 days",
+  "Regular Customer(%)": 4.75,
+  "Senior Citizen(%)": 5.25
+ },
+ {
+  "Bank Name": "ICICI",
+  "Tenure": "185 days-270 days",
+  "Regular Customer(%)": 5.75,
+  "Senior Citizen(%)": 6.25
+ },
+ {
+  "Bank Name": "ICICI",
+  "Tenure": "271 days -364 days",
+  "Regular Customer(%)": 6,
+  "Senior Citizen(%)": 6.25
+ },
+ {
+  "Bank Name": "ICICI",
+  "Tenure": "1 year less than 15 months",
+  "Regular Customer(%)": 6.7,
+  "Senior Citizen(%)": 7.2
+ },
+ {
+  "Bank Name": "ICICI",
+  "Tenure": "15 months less than 18 months",
+  "Regular Customer(%)": 7.25,
+  "Senior Citizen(%)": 7.8
+ },
+ {
+  "Bank Name": "ICICI",
+  "Tenure": "18 months - 2 years",
+  "Regular Customer(%)": 7.25,
+  "Senior Citizen(%)": 7.75
+ },
+ {
+  "Bank Name": "ICICI",
+  "Tenure": "2 years 1 day - 5 years",
+  "Regular Customer(%)": 7,
+  "Senior Citizen(%)": 7.5
+ },
+ {
+  "Bank Name": "ICICI",
+  "Tenure": "5 years",
+  "Regular Customer(%)": 7,
+  "Senior Citizen(%)": 7.5
+ },
+ {
+  "Bank Name": "ICICI",
+  "Tenure": "5 years 1 day - 10 years",
+  "Regular Customer(%)": 6.9,
+  "Senior Citizen(%)": 7.4
+ },
+ {
+  "Bank Name": "ICICI",
+  "Tenure": "1 year - 5 years",
+  "Regular Customer(%)": 7.25,
+  "Senior Citizen(%)": 7.75
+ },
+ {
+  "Bank Name": "ICICI",
+  "Tenure": "61 days - 90 days",
+  "Regular Customer(%)": 4.5,
+  "Senior Citizen(%)": 5
+ },
+ {
+  "Bank Name": "Bandhan Bank",
+  "Tenure": "7 days 14 days",
+  "Regular Customer(%)": 3,
+  "Senior Citizen(%)": 3.75
+ },
+ {
+  "Bank Name": "Bandhan Bank",
+  "Tenure": "15 days 30 days",
+  "Regular Customer(%)": 3,
+  "Senior Citizen(%)": 3.75
+ },
+ {
+  "Bank Name": "Bandhan Bank",
+  "Tenure": "31 days below 2 months",
+  "Regular Customer(%)": 3.5,
+  "Senior Citizen(%)": 4.25
+ },
+ {
+  "Bank Name": "Bandhan Bank",
+  "Tenure": "2 months less than 3 months",
+  "Regular Customer(%)": 4.5,
+  "Senior Citizen(%)": 5.25
+ },
+ {
+  "Bank Name": "Bandhan Bank",
+  "Tenure": "3 months less than 6 months",
+  "Regular Customer(%)": 4.5,
+  "Senior Citizen(%)": 5.25
+ },
+ {
+  "Bank Name": "Bandhan Bank",
+  "Tenure": "6 months less than 1 year",
+  "Regular Customer(%)": 4.5,
+  "Senior Citizen(%)": 5.25
+ },
+ {
+  "Bank Name": "Bandhan Bank",
+  "Tenure": "1 year",
+  "Regular Customer(%)": 8.05,
+  "Senior Citizen(%)": 8.55
+ },
+ {
+  "Bank Name": "Bandhan Bank",
+  "Tenure": "1 year 1 day 1 year 9 months",
+  "Regular Customer(%)": 8,
+  "Senior Citizen(%)": 8.5
+ },
+ {
+  "Bank Name": "Bandhan Bank",
+  "Tenure": "1 year 9 months 1 day - 3 years",
+  "Regular Customer(%)": 7.25,
+  "Senior Citizen(%)": 7.75
+ },
+ {
+  "Bank Name": "Bandhan Bank",
+  "Tenure": "5 years - 10 years",
+  "Regular Customer(%)": 5.85,
+  "Senior Citizen(%)": 6.6
+ },
+ {
+  "Bank Name": "Canara Bank",
+  "Tenure": "7 days - 45 days",
+  "Regular Customer(%)": 4,
+  "Senior Citizen(%)": 4
+ },
+ {
+  "Bank Name": "Canara Bank",
+  "Tenure": "46 days 90 days",
+  "Regular Customer(%)": 5.25,
+  "Senior Citizen(%)": 5.25
+ },
+ {
+  "Bank Name": "Canara Bank",
+  "Tenure": "91 days 179 days",
+  "Regular Customer(%)": 5.5,
+  "Senior Citizen(%)": 5.5
+ },
+ {
+  "Bank Name": "Canara Bank",
+  "Tenure": "180 days 269 days",
+  "Regular Customer(%)": 6.15,
+  "Senior Citizen(%)": 6.65
+ },
+ {
+  "Bank Name": "Canara Bank",
+  "Tenure": "1 year",
+  "Regular Customer(%)": 6.85,
+  "Senior Citizen(%)": 7.35
+ },
+ {
+  "Bank Name": "Canara Bank",
+  "Tenure": "1 year < 2 years",
+  "Regular Customer(%)": 6.85,
+  "Senior Citizen(%)": 7.35
+ },
+ {
+  "Bank Name": "Canara Bank",
+  "Tenure": "2 years < 3 years",
+  "Regular Customer(%)": 6.85,
+  "Senior Citizen(%)": 7.35
+ },
+ {
+  "Bank Name": "Canara Bank",
+  "Tenure": "3 years < 5 years",
+  "Regular Customer(%)": 6.8,
+  "Senior Citizen(%)": 7.3
+ },
+ {
+  "Bank Name": "Canara Bank",
+  "Tenure": "5 years < 10 years",
+  "Regular Customer(%)": 6.7,
+  "Senior Citizen(%)": 7.2
+ },
+ {
+  "Bank Name": "Canara Bank",
+  "Tenure": "270 days < 1 year",
+  "Regular Customer(%)": 6.25,
+  "Senior Citizen(%)": 6.75
+ },
+ {
+  "Bank Name": "Canara Bank",
+  "Tenure": "444 days",
+  "Regular Customer(%)": 7.25,
+  "Senior Citizen(%)": 7.75
+ },
+ {
+  "Bank Name": "Post Office",
+  "Tenure": "1 year",
+  "Regular Customer(%)": 6.9,
+  "Senior Citizen(%)": 6.9
+ },
+ {
+  "Bank Name": "Post Office",
+  "Tenure": "1 year 1 day - 2 years",
+  "Regular Customer(%)": 7,
+  "Senior Citizen(%)": 7
+ },
+ {
+  "Bank Name": "Post Office",
+  "Tenure": "2 years 1 day - 3 years",
+  "Regular Customer(%)": 7.1,
+  "Senior Citizen(%)": 7
+ },
+ {
+  "Bank Name": "Post Office",
+  "Tenure": "3 years 1 day - 5 years",
+  "Regular Customer(%)": 7.5,
+  "Senior Citizen(%)": 7.5
+ },
+ {
+  "Bank Name": "Bank of Baroda",
+  "Tenure": "7 days - 14 days ",
+  "Regular Customer(%)": 0.0425,
+  "Senior Citizen(%)": 0.0475
+ },
+ {
+  "Bank Name": "Bank of Baroda",
+  "Tenure": "15 days 45 days ",
+  "Regular Customer(%)": 0.045,
+  "Senior Citizen(%)": 0.05
+ },
+ {
+  "Bank Name": "Bank of Baroda",
+  "Tenure": "46 days 90 days ",
+  "Regular Customer(%)": 0.055,
+  "Senior Citizen(%)": 0.06
+ },
+ {
+  "Bank Name": "Bank of Baroda",
+  "Tenure": "91 days 180 days ",
+  "Regular Customer(%)": 0.056,
+  "Senior Citizen(%)": 0.061
+ },
+ {
+  "Bank Name": "Bank of Baroda",
+  "Tenure": "181 days 210 days ",
+  "Regular Customer(%)": 0.0575,
+  "Senior Citizen(%)": 0.0625
+ },
+ {
+  "Bank Name": "Bank of Baroda",
+  "Tenure": "211 days 270 days ",
+  "Regular Customer(%)": 0.0625,
+  "Senior Citizen(%)": 0.0675
+ },
+ {
+  "Bank Name": "Bank of Baroda",
+  "Tenure": "271 days - less than 1 year ",
+  "Regular Customer(%)": 0.065,
+  "Senior Citizen(%)": 0.07
+ },
+ {
+  "Bank Name": "Bank of Baroda",
+  "Tenure": "1 year",
+  "Regular Customer(%)": 0.0685,
+  "Senior Citizen(%)": 0.0735
+ },
+ {
+  "Bank Name": "Bank of Baroda",
+  "Tenure": "1 year 1 day - 400 days ",
+  "Regular Customer(%)": 0.07,
+  "Senior Citizen(%)": 0.075
+ },
+ {
+  "Bank Name": "Bank of Baroda",
+  "Tenure": "2 years 1 day - 3 years",
+  "Regular Customer(%)": 0.0715,
+  "Senior Citizen(%)": 0.0765
+ },
+ {
+  "Bank Name": "Bank of Baroda",
+  "Tenure": "3 years 1 day - 5 years",
+  "Regular Customer(%)": 0.065,
+  "Senior Citizen(%)": 0.07150000000000001
+ },
+ {
+  "Bank Name": "Bank of Baroda",
+  "Tenure": "5 years 1 day - 10 years",
+  "Regular Customer(%)": 0.065,
+  "Senior Citizen(%)": 0.075
+ },
+ {
+  "Bank Name": "Bank of Baroda",
+  "Tenure": "Above 400 days - 2 years",
+  "Regular Customer(%)": 0.07,
+  "Senior Citizen(%)": 0.075
+ },
+ {
+  "Bank Name": "PNB",
+  "Tenure": "7 days 14 days",
+  "Regular Customer(%)": 0.035,
+  "Senior Citizen(%)": 0.04
+ },
+ {
+  "Bank Name": "PNB",
+  "Tenure": "15 days 29 days",
+  "Regular Customer(%)": 0.035,
+  "Senior Citizen(%)": 0.04
+ },
+ {
+  "Bank Name": "PNB",
+  "Tenure": "30 days 45 days",
+  "Regular Customer(%)": 0.035,
+  "Senior Citizen(%)": 0.04
+ },
+ {
+  "Bank Name": "PNB",
+  "Tenure": "46 days 90 days",
+  "Regular Customer(%)": 0.045,
+  "Senior Citizen(%)": 0.05
+ },
+ {
+  "Bank Name": "PNB",
+  "Tenure": "91 days 179 days",
+  "Regular Customer(%)": 0.045,
+  "Senior Citizen(%)": 0.05
+ },
+ {
+  "Bank Name": "PNB",
+  "Tenure": "180 days 270 days",
+  "Regular Customer(%)": 0.0625,
+  "Senior Citizen(%)": 0.0675
+ },
+ {
+  "Bank Name": "PNB",
+  "Tenure": "271 days 299 days",
+  "Regular Customer(%)": 0.065,
+  "Senior Citizen(%)": 0.07
+ },
+ {
+  "Bank Name": "PNB",
+  "Tenure": "1 year",
+  "Regular Customer(%)": 0.068,
+  "Senior Citizen(%)": 0.073
+ },
+ {
+  "Bank Name": "PNB",
+  "Tenure": "1 year 1 day-399 days",
+  "Regular Customer(%)": 0.068,
+  "Senior Citizen(%)": 0.073
+ },
+ {
+  "Bank Name": "PNB",
+  "Tenure": "400 days",
+  "Regular Customer(%)": 0.0725,
+  "Senior Citizen(%)": 0.0775
+ },
+ {
+  "Bank Name": "PNB",
+  "Tenure": "401 days 2 years",
+  "Regular Customer(%)": 0.068,
+  "Senior Citizen(%)": 0.073
+ },
+ {
+  "Bank Name": "PNB",
+  "Tenure": "2 years 1 day - 3 years",
+  "Regular Customer(%)": 0.07,
+  "Senior Citizen(%)": 0.075
+ },
+ {
+  "Bank Name": "PNB",
+  "Tenure": "Above 3 years - 1203 days",
+  "Regular Customer(%)": 0.065,
+  "Senior Citizen(%)": 0.073
+ },
+ {
+  "Bank Name": "PNB",
+  "Tenure": "300 days",
+  "Regular Customer(%)": 0.0705,
+  "Senior Citizen(%)": 0.0755
+ },
+ {
+  "Bank Name": "PNB",
+  "Tenure": "310 days less than 1 year",
+  "Regular Customer(%)": 0.065,
+  "Senior Citizen(%)": 0.07
+ },
+ {
+  "Bank Name": "PNB",
+  "Tenure": "1204 days",
+  "Regular Customer(%)": 0.064,
+  "Senior Citizen(%)": 0.069
+ },
+ {
+  "Bank Name": "PNB",
+  "Tenure": "1205 days 5 years",
+  "Regular Customer(%)": 0.065,
+  "Senior Citizen(%)": 0.07
+ },
+ {
+  "Bank Name": "PNB",
+  "Tenure": "5 years 1 day 1894 days",
+  "Regular Customer(%)": 0.065,
+  "Senior Citizen(%)": 0.073
+ },
+ {
+  "Bank Name": "PNB",
+  "Tenure": "1895 days",
+  "Regular Customer(%)": 0.0635,
+  "Senior Citizen(%)": 0.0715
+ },
+ {
+  "Bank Name": "PNB",
+  "Tenure": "1896 days 10 years",
+  "Regular Customer(%)": 0.065,
+  "Senior Citizen(%)": 0.073
+ },
+ {
+  "Bank Name": "Indian Bank",
+  "Tenure": "7 days 14 days",
+  "Regular Customer(%)": 0.028,
+  "Senior Citizen(%)": 0.033
+ },
+ {
+  "Bank Name": "Indian Bank",
+  "Tenure": "15 days 29 days",
+  "Regular Customer(%)": 0.028,
+  "Senior Citizen(%)": 0.033
+ },
+ {
+  "Bank Name": "Indian Bank",
+  "Tenure": "30 days 45 days",
+  "Regular Customer(%)": 0.03,
+  "Senior Citizen(%)": 0.035
+ },
+ {
+  "Bank Name": "Indian Bank",
+  "Tenure": "46 days 90 days",
+  "Regular Customer(%)": 0.0325,
+  "Senior Citizen(%)": 0.0375
+ },
+ {
+  "Bank Name": "Indian Bank",
+  "Tenure": "91 days 180 days",
+  "Regular Customer(%)": 0.035,
+  "Senior Citizen(%)": 0.04
+ },
+ {
+  "Bank Name": "Indian Bank",
+  "Tenure": "121 days 180 days",
+  "Regular Customer(%)": 0.0385,
+  "Senior Citizen(%)": 0.0435
+ },
+ {
+  "Bank Name": "Indian Bank",
+  "Tenure": "181 days less than 9 months",
+  "Regular Customer(%)": 0.045,
+  "Senior Citizen(%)": 0.05
+ },
+ {
+  "Bank Name": "Indian Bank",
+  "Tenure": "9 months-364 days",
+  "Regular Customer(%)": 0.0475,
+  "Senior Citizen(%)": 0.0525
+ },
+ {
+  "Bank Name": "Indian Bank",
+  "Tenure": "1 year",
+  "Regular Customer(%)": 0.061,
+  "Senior Citizen(%)": 0.066
+ },
+ {
+  "Bank Name": "Indian Bank",
+  "Tenure": "1 year 1 day 1 year 364 days",
+  "Regular Customer(%)": 0.071,
+  "Senior Citizen(%)": 0.076
+ },
+ {
+  "Bank Name": "Indian Bank",
+  "Tenure": "2 years - 2 years 364 days",
+  "Regular Customer(%)": 0.067,
+  "Senior Citizen(%)": 0.072
+ },
+ {
+  "Bank Name": "Indian Bank",
+  "Tenure": "3 years 4 years 364 days",
+  "Regular Customer(%)": 0.0625,
+  "Senior Citizen(%)": 0.0675
+ },
+ {
+  "Bank Name": "Indian Bank",
+  "Tenure": "5 years 10 years",
+  "Regular Customer(%)": 0.061,
+  "Senior Citizen(%)": 0.066
+ },
+ {
+  "Bank Name": "Indian Bank",
+  "Tenure": "5 years",
+  "Regular Customer(%)": 0.0625,
+  "Senior Citizen(%)": 0.0675
+ },
+ {
+  "Bank Name": "Indian Bank",
+  "Tenure": "Above 5 years",
+  "Regular Customer(%)": 0.061,
+  "Senior Citizen(%)": 0.066
+ },
+ {
+  "Bank Name": "UCO Bank",
+  "Tenure": "7 days 29 days",
+  "Regular Customer(%)": 0.029,
+  "Senior Citizen(%)": 0.0315
+ },
+ {
+  "Bank Name": "UCO Bank",
+  "Tenure": "30 days 45 days",
+  "Regular Customer(%)": 0.03,
+  "Senior Citizen(%)": 0.0325
+ },
+ {
+  "Bank Name": "UCO Bank",
+  "Tenure": "46 days 60 days",
+  "Regular Customer(%)": 0.035,
+  "Senior Citizen(%)": 0.04
+ },
+ {
+  "Bank Name": "UCO Bank",
+  "Tenure": "61 days 90 days",
+  "Regular Customer(%)": 0.035,
+  "Senior Citizen(%)": 0.04
+ },
+ {
+  "Bank Name": "UCO Bank",
+  "Tenure": "91 days 150 days",
+  "Regular Customer(%)": 0.045,
+  "Senior Citizen(%)": 0.0475
+ },
+ {
+  "Bank Name": "UCO Bank",
+  "Tenure": "151 days 180 days",
+  "Regular Customer(%)": 0.05,
+  "Senior Citizen(%)": 0.0525
+ },
+ {
+  "Bank Name": "UCO Bank",
+  "Tenure": "1 year 399 days",
+  "Regular Customer(%)": 0.065,
+  "Senior Citizen(%)": 0.07
+ },
+ {
+  "Bank Name": "UCO Bank",
+  "Tenure": "400 days",
+  "Regular Customer(%)": 0.0705,
+  "Senior Citizen(%)": 0.0755
+ },
+ {
+  "Bank Name": "UCO Bank",
+  "Tenure": "401 days 2 years",
+  "Regular Customer(%)": 0.065,
+  "Senior Citizen(%)": 0.07
+ },
+ {
+  "Bank Name": "UCO Bank",
+  "Tenure": "2 years 1 day - 3 years",
+  "Regular Customer(%)": 0.063,
+  "Senior Citizen(%)": 0.068
+ },
+ {
+  "Bank Name": "UCO Bank",
+  "Tenure": "3 years 5 years",
+  "Regular Customer(%)": 0.062,
+  "Senior Citizen(%)": 0.067
+ },
+ {
+  "Bank Name": "UCO Bank",
+  "Tenure": "181 days 332 days",
+  "Regular Customer(%)": 0.055,
+  "Senior Citizen(%)": 0.06
+ },
+ {
+  "Bank Name": "UCO Bank",
+  "Tenure": "5 years",
+  "Regular Customer(%)": 0.061,
+  "Senior Citizen(%)": 0.066
+ },
+ {
+  "Bank Name": "UCO Bank",
+  "Tenure": "333 days",
+  "Regular Customer(%)": 0.073,
+  "Senior Citizen(%)": 0.078
+ },
+ {
+  "Bank Name": "UCO Bank",
+  "Tenure": "334-364 days",
+  "Regular Customer(%)": 0.055,
+  "Senior Citizen(%)": 0.06
+ },
+ {
+  "Bank Name": "YES Bank",
+  "Tenure": "7 days 14 days",
+  "Regular Customer(%)": 0.0325,
+  "Senior Citizen(%)": 0.0375
+ },
+ {
+  "Bank Name": "YES Bank",
+  "Tenure": "15 days 45 days",
+  "Regular Customer(%)": 0.037,
+  "Senior Citizen(%)": 0.042
+ },
+ {
+  "Bank Name": "YES Bank",
+  "Tenure": "46 days 90 days",
+  "Regular Customer(%)": 0.041,
+  "Senior Citizen(%)": 0.046
+ },
+ {
+  "Bank Name": "YES Bank",
+  "Tenure": "91 days 120 days",
+  "Regular Customer(%)": 0.0475,
+  "Senior Citizen(%)": 0.0525
+ },
+ {
+  "Bank Name": "YES Bank",
+  "Tenure": "121 days 180 days",
+  "Regular Customer(%)": 0.05,
+  "Senior Citizen(%)": 0.055
+ },
+ {
+  "Bank Name": "YES Bank",
+  "Tenure": "181 days 271 days",
+  "Regular Customer(%)": 0.061,
+  "Senior Citizen(%)": 0.066
+ },
+ {
+  "Bank Name": "YES Bank",
+  "Tenure": "272 days less than 1 year",
+  "Regular Customer(%)": 0.0635,
+  "Senior Citizen(%)": 0.0685
+ },
+ {
+  "Bank Name": "YES Bank",
+  "Tenure": "1 year 1 day - less than 18 months",
+  "Regular Customer(%)": 0.075,
+  "Senior Citizen(%)": 0.08
+ },
+ {
+  "Bank Name": "YES Bank",
+  "Tenure": "18 months",
+  "Regular Customer(%)": 0.08,
+  "Senior Citizen(%)": 0.085
+ },
+ {
+  "Bank Name": "YES Bank",
+  "Tenure": "18 months 1 day - less than 24 months",
+  "Regular Customer(%)": 0.0775,
+  "Senior Citizen(%)": 0.0825
+ },
+ {
+  "Bank Name": "YES Bank",
+  "Tenure": "1 year",
+  "Regular Customer(%)": 0.0725,
+  "Senior Citizen(%)": 0.0775
+ },
+ {
+  "Bank Name": "YES Bank",
+  "Tenure": "24 months- 60 months",
+  "Regular Customer(%)": 0.0725,
+  "Senior Citizen(%)": 0.08
+ },
+ {
+  "Bank Name": "YES Bank",
+  "Tenure": "6 months 1 day - 120 months",
+  "Regular Customer(%)": 0.07,
+  "Senior Citizen(%)": 0.0775
+ },
+ {
+  "Bank Name": "IDFC First Bank",
+  "Tenure": "7-14 days",
+  "Regular Customer(%)": 0.03,
+  "Senior Citizen(%)": 0.035
+ },
+ {
+  "Bank Name": "IDFC First Bank",
+  "Tenure": "15-29 days",
+  "Regular Customer(%)": 0.03,
+  "Senior Citizen(%)": 0.035
+ },
+ {
+  "Bank Name": "IDFC First Bank",
+  "Tenure": "30 days 45 days",
+  "Regular Customer(%)": 0.03,
+  "Senior Citizen(%)": 0.035
+ },
+ {
+  "Bank Name": "IDFC First Bank",
+  "Tenure": "46 days 90 days",
+  "Regular Customer(%)": 0.045,
+  "Senior Citizen(%)": 0.05
+ },
+ {
+  "Bank Name": "IDFC First Bank",
+  "Tenure": "91 days 180 days",
+  "Regular Customer(%)": 0.045,
+  "Senior Citizen(%)": 0.05
+ },
+ {
+  "Bank Name": "IDFC First Bank",
+  "Tenure": "181 days less than 1 year",
+  "Regular Customer(%)": 0.0575,
+  "Senior Citizen(%)": 0.0625
+ },
+ {
+  "Bank Name": "IDFC First Bank",
+  "Tenure": "1 years 1 day - 399 days",
+  "Regular Customer(%)": 0.0725,
+  "Senior Citizen(%)": 0.0775
+ },
+ {
+  "Bank Name": "IDFC First Bank",
+  "Tenure": "400 days",
+  "Regular Customer(%)": 0.0775,
+  "Senior Citizen(%)": 0.0825
+ },
+ {
+  "Bank Name": "IDFC First Bank",
+  "Tenure": "401 days 2 years",
+  "Regular Customer(%)": 0.068,
+  "Senior Citizen(%)": 0.073
+ },
+ {
+  "Bank Name": "IDFC First Bank",
+  "Tenure": "2 years 1 day - 3 years",
+  "Regular Customer(%)": 0.07,
+  "Senior Citizen(%)": 0.075
+ },
+ {
+  "Bank Name": "IDFC First Bank",
+  "Tenure": "1 year",
+  "Regular Customer(%)": 0.065,
+  "Senior Citizen(%)": 0.07
+ },
+ {
+  "Bank Name": "IDFC First Bank",
+  "Tenure": "3 years 1 day - 5 years",
+  "Regular Customer(%)": 0.0675,
+  "Senior Citizen(%)": 0.0725
+ },
+ {
+  "Bank Name": "IDFC First Bank",
+  "Tenure": "5 years 1 day 10 years",
+  "Regular Customer(%)": 0.065,
+  "Senior Citizen(%)": 0.07
+ },
+ {
+  "Bank Name": "Bank Of India",
+  "Tenure": "7 days 14 days",
+  "Regular Customer(%)": 0.03,
+  "Senior Citizen(%)": 0.035
+ },
+ {
+  "Bank Name": "Bank Of India",
+  "Tenure": "15 days 30 days",
+  "Regular Customer(%)": 0.03,
+  "Senior Citizen(%)": 0.035
+ },
+ {
+  "Bank Name": "Bank Of India",
+  "Tenure": "31 days 45 days",
+  "Regular Customer(%)": 0.03,
+  "Senior Citizen(%)": 0.035
+ },
+ {
+  "Bank Name": "Bank Of India",
+  "Tenure": "46 days 90 days",
+  "Regular Customer(%)": 0.045,
+  "Senior Citizen(%)": 0.05
+ },
+ {
+  "Bank Name": "Bank Of India",
+  "Tenure": "91 days 179 days",
+  "Regular Customer(%)": 0.045,
+  "Senior Citizen(%)": 0.05
+ },
+ {
+  "Bank Name": "Bank Of India",
+  "Tenure": "180 days 269 days",
+  "Regular Customer(%)": 0.06,
+  "Senior Citizen(%)": 0.065
+ },
+ {
+  "Bank Name": "Bank Of India",
+  "Tenure": "270 days - less than 1 year",
+  "Regular Customer(%)": 0.06,
+  "Senior Citizen(%)": 0.065
+ },
+ {
+  "Bank Name": "Bank Of India",
+  "Tenure": "1 year",
+  "Regular Customer(%)": 0.065,
+  "Senior Citizen(%)": 0.07
+ },
+ {
+  "Bank Name": "Bank Of India",
+  "Tenure": "1 year to 2 years",
+  "Regular Customer(%)": 0.0675,
+  "Senior Citizen(%)": 0.0725
+ },
+ {
+  "Bank Name": "Bank Of India",
+  "Tenure": "Above 2 years",
+  "Regular Customer(%)": 0.0625,
+  "Senior Citizen(%)": 0.0675
+ },
+ {
+  "Bank Name": "Saraswat Bank",
+  "Tenure": "7 days - 14 days",
+  "Regular Customer(%)": 0.0325,
+  "Senior Citizen(%)": 0.0375
+ },
+ {
+  "Bank Name": "Saraswat Bank",
+  "Tenure": "15 days - 30 days",
+  "Regular Customer(%)": 0.0325,
+  "Senior Citizen(%)": 0.0375
+ },
+ {
+  "Bank Name": "Saraswat Bank",
+  "Tenure": "31 days - 60 days",
+  "Regular Customer(%)": 0.035,
+  "Senior Citizen(%)": 0.04
+ },
+ {
+  "Bank Name": "Saraswat Bank",
+  "Tenure": "61 days - 90 days",
+  "Regular Customer(%)": 0.04,
+  "Senior Citizen(%)": 0.045
+ },
+ {
+  "Bank Name": "Saraswat Bank",
+  "Tenure": "91 days - 179 days",
+  "Regular Customer(%)": 0.0475,
+  "Senior Citizen(%)": 0.0525
+ },
+ {
+  "Bank Name": "Saraswat Bank",
+  "Tenure": "112 days - 179 days",
+  "Regular Customer(%)": 0.05,
+  "Senior Citizen(%)": 0.055
+ },
+ {
+  "Bank Name": "Saraswat Bank",
+  "Tenure": "180 days - 240 days",
+  "Regular Customer(%)": 0.0575,
+  "Senior Citizen(%)": 0.0625
+ },
+ {
+  "Bank Name": "Saraswat Bank",
+  "Tenure": "241 days less than one year",
+  "Regular Customer(%)": 0.06,
+  "Senior Citizen(%)": 0.065
+ },
+ {
+  "Bank Name": "Saraswat Bank",
+  "Tenure": "1 year - 1 year 10 days",
+  "Regular Customer(%)": 0.0715,
+  "Senior Citizen(%)": 0.0765
+ },
+ {
+  "Bank Name": "Saraswat Bank",
+  "Tenure": "1 year 11 days - less than 21 months",
+  "Regular Customer(%)": 0.0715,
+  "Senior Citizen(%)": 0.0765
+ },
+ {
+  "Bank Name": "Saraswat Bank",
+  "Tenure": "21 months",
+  "Regular Customer(%)": 0.0725,
+  "Senior Citizen(%)": 0.0775
+ },
+ {
+  "Bank Name": "Saraswat Bank",
+  "Tenure": "21 months 1 day - 3 years",
+  "Regular Customer(%)": 0.07,
+  "Senior Citizen(%)": 0.075
+ },
+ {
+  "Bank Name": "Saraswat Bank",
+  "Tenure": "Above 3 years - 5 years",
+  "Regular Customer(%)": 0.0675,
+  "Senior Citizen(%)": 0.0725
+ },
+ {
+  "Bank Name": "Saraswat Bank",
+  "Tenure": "Above 5 years - 10 years",
+  "Regular Customer(%)": 0.0675,
+  "Senior Citizen(%)": 0.0725
+ },
+ {
+  "Bank Name": "ICICI HDF FD",
+  "Tenure": "12 months less than 24 months",
+  "Regular Customer(%)": 0.0725,
+  "Senior Citizen(%)": 0.075
+ },
+ {
+  "Bank Name": "ICICI HDF FD",
+  "Tenure": "24 months less than 36 months",
+  "Regular Customer(%)": 0.0755,
+  "Senior Citizen(%)": 0.0775
+ },
+ {
+  "Bank Name": "ICICI HDF FD",
+  "Tenure": "36 months less than 60 months",
+  "Regular Customer(%)": 0.0765,
+  "Senior Citizen(%)": 0.0785
+ },
+ {
+  "Bank Name": "ICICI HDF FD",
+  "Tenure": "60 months - less than 72 months",
+  "Regular Customer(%)": 0.076,
+  "Senior Citizen(%)": 0.0785
+ },
+ {
+  "Bank Name": "ICICI HDF FD",
+  "Tenure": "72 months less than 120 months",
+  "Regular Customer(%)": 0.075,
+  "Senior Citizen(%)": 0.0775
+ },
+ {
+  "Bank Name": "Federal Bank",
+  "Tenure": "7 days - 29 days",
+  "Regular Customer(%)": 0.03,
+  "Senior Citizen(%)": 0.035
+ },
+ {
+  "Bank Name": "Federal Bank",
+  "Tenure": "30 days - 45 days",
+  "Regular Customer(%)": 0.0325,
+  "Senior Citizen(%)": 0.0375
+ },
+ {
+  "Bank Name": "Federal Bank",
+  "Tenure": "46 days - 60 days",
+  "Regular Customer(%)": 0.04,
+  "Senior Citizen(%)": 0.045
+ },
+ {
+  "Bank Name": "Federal Bank",
+  "Tenure": "91 days - 180 days",
+  "Regular Customer(%)": 0.0375,
+  "Senior Citizen(%)": 0.0425
+ },
+ {
+  "Bank Name": "Federal Bank",
+  "Tenure": "120 days - 180 days",
+  "Regular Customer(%)": 0.05,
+  "Senior Citizen(%)": 0.055
+ },
+ {
+  "Bank Name": "Federal Bank",
+  "Tenure": "182 days less than 1 year",
+  "Regular Customer(%)": 0.0625,
+  "Senior Citizen(%)": 0.0675
+ },
+ {
+  "Bank Name": "Federal Bank",
+  "Tenure": "1 year - 399 days",
+  "Regular Customer(%)": 0.068,
+  "Senior Citizen(%)": 0.073
+ },
+ {
+  "Bank Name": "Federal Bank",
+  "Tenure": "61 days - 119 days",
+  "Regular Customer(%)": 0.0475,
+  "Senior Citizen(%)": 0.0525
+ },
+ {
+  "Bank Name": "Federal Bank",
+  "Tenure": "181 days",
+  "Regular Customer(%)": 0.065,
+  "Senior Citizen(%)": 0.07
+ },
+ {
+  "Bank Name": "Federal Bank",
+  "Tenure": "400 days",
+  "Regular Customer(%)": 0.0735,
+  "Senior Citizen(%)": 0.0785
+ },
+ {
+  "Bank Name": "Federal Bank",
+  "Tenure": "401 days - 776 days",
+  "Regular Customer(%)": 0.0705,
+  "Senior Citizen(%)": 0.0755
+ },
+ {
+  "Bank Name": "Federal Bank",
+  "Tenure": "777 days",
+  "Regular Customer(%)": 0.074,
+  "Senior Citizen(%)": 0.079
+ },
+ {
+  "Bank Name": "Federal Bank",
+  "Tenure": "778 days - less than 3 years",
+  "Regular Customer(%)": 0.0705,
+  "Senior Citizen(%)": 0.0755
+ },
+ {
+  "Bank Name": "Federal Bank",
+  "Tenure": "3 years less than 50 months",
+  "Regular Customer(%)": 0.07,
+  "Senior Citizen(%)": 0.075
+ },
+ {
+  "Bank Name": "Federal Bank",
+  "Tenure": "Only 50 months",
+  "Regular Customer(%)": 0.074,
+  "Senior Citizen(%)": 0.079
+ },
+ {
+  "Bank Name": "Federal Bank",
+  "Tenure": "Above 50 months - less than 5 years",
+  "Regular Customer(%)": 0.07,
+  "Senior Citizen(%)": 0.075
+ },
+ {
+  "Bank Name": "Federal Bank",
+  "Tenure": "5 years and above",
+  "Regular Customer(%)": 0.066,
+  "Senior Citizen(%)": 0.0725
+ },
+ {
+  "Bank Name": "Andhra Pradesh State Co-Op Bank",
+  "Tenure": "1 Year",
+  "Regular Customer(%)": 0.06,
+  "Senior Citizen(%)": 0.066
+ },
+ {
+  "Bank Name": "Repco Bank",
+  "Tenure": "1 Year - 2 Years",
+  "Regular Customer(%)": 0.0625,
+  "Senior Citizen(%)": 0.0625
+ },
+ {
+  "Bank Name": "Bombay Mercantile Co-Operative Bank",
+  "Tenure": "5 Years - 10 Years",
+  "Regular Customer(%)": 0.054,
+  "Senior Citizen(%)": 0.062
+ },
+ {
+  "Bank Name": "Bharat Co-Operative Bank",
+  "Tenure": "More than 5 Years",
+  "Regular Customer(%)": 0.06,
+  "Senior Citizen(%)": 0.065
+ },
+ {
+  "Bank Name": "Janata Sahakari Bank",
+  "Tenure": "More than 5 Years",
+  "Regular Customer(%)": 0.0585,
+  "Senior Citizen(%)": 0.0635
+ },
+ {
+  "Bank Name": "AU Small Finance Bank",
+  "Tenure": "7 days - 1 month 15 days",
+  "Regular Customer(%)": 0.0375,
+  "Senior Citizen(%)": 0.0425
+ },
+ {
+  "Bank Name": "AU Small Finance Bank",
+  "Tenure": "1 month 16 days - 3 months",
+  "Regular Customer(%)": 0.055,
+  "Senior Citizen(%)": 0.06
+ },
+ {
+  "Bank Name": "AU Small Finance Bank",
+  "Tenure": "3 months 1 day - 6 months",
+  "Regular Customer(%)": 0.06,
+  "Senior Citizen(%)": 0.065
+ },
+ {
+  "Bank Name": "AU Small Finance Bank",
+  "Tenure": "6 months 1 day - 12 months",
+  "Regular Customer(%)": 0.0725,
+  "Senior Citizen(%)": 0.0775
+ },
+ {
+  "Bank Name": "AU Small Finance Bank",
+  "Tenure": "12 months 1 day - 15 months",
+  "Regular Customer(%)": 0.0785,
+  "Senior Citizen(%)": 0.0835
+ },
+ {
+  "Bank Name": "AU Small Finance Bank",
+  "Tenure": "15 months 1 day - less than 18 months",
+  "Regular Customer(%)": 0.075,
+  "Senior Citizen(%)": 0.08
+ },
+ {
+  "Bank Name": "AU Small Finance Bank",
+  "Tenure": "18 months",
+  "Regular Customer(%)": 0.08,
+  "Senior Citizen(%)": 0.085
+ },
+ {
+  "Bank Name": "AU Small Finance Bank",
+  "Tenure": "18 months 1 day - 24 months",
+  "Regular Customer(%)": 0.0775,
+  "Senior Citizen(%)": 0.0825
+ },
+ {
+  "Bank Name": "AU Small Finance Bank",
+  "Tenure": "24 months 1 day - 36 months",
+  "Regular Customer(%)": 0.075,
+  "Senior Citizen(%)": 0.08
+ },
+ {
+  "Bank Name": "AU Small Finance Bank",
+  "Tenure": "36 months 1 day - 45 months",
+  "Regular Customer(%)": 0.075,
+  "Senior Citizen(%)": 0.08
+ },
+ {
+  "Bank Name": "AU Small Finance Bank",
+  "Tenure": "45 months 1 day - 120 months",
+  "Regular Customer(%)": 0.0725,
+  "Senior Citizen(%)": 0.0775
+ },
+ {
+  "Bank Name": "Ujjivan Small Finance Bank",
+  "Tenure": "7 days - 29 days",
+  "Regular Customer(%)": 0.0375,
+  "Senior Citizen(%)": 0.0425
+ },
+ {
+  "Bank Name": "Ujjivan Small Finance Bank",
+  "Tenure": "30 days - 89 days",
+  "Regular Customer(%)": 0.0425,
+  "Senior Citizen(%)": 0.0475
+ },
+ {
+  "Bank Name": "Ujjivan Small Finance Bank",
+  "Tenure": "90 days - 179 days",
+  "Regular Customer(%)": 0.0475,
+  "Senior Citizen(%)": 0.0525
+ },
+ {
+  "Bank Name": "Ujjivan Small Finance Bank",
+  "Tenure": "6 months less than 9 months",
+  "Regular Customer(%)": 0.07,
+  "Senior Citizen(%)": 0.075
+ },
+ {
+  "Bank Name": "Ujjivan Small Finance Bank",
+  "Tenure": "9 months",
+  "Regular Customer(%)": 0.075,
+  "Senior Citizen(%)": 0.08
+ },
+ {
+  "Bank Name": "Ujjivan Small Finance Bank",
+  "Tenure": "9 months 1 day - less than 12 months",
+  "Regular Customer(%)": 0.07,
+  "Senior Citizen(%)": 0.075
+ },
+ {
+  "Bank Name": "Ujjivan Small Finance Bank",
+  "Tenure": "12 months",
+  "Regular Customer(%)": 0.0825,
+  "Senior Citizen(%)": 0.0875
+ },
+ {
+  "Bank Name": "Ujjivan Small Finance Bank",
+  "Tenure": "12 months 1 day - 560 days",
+  "Regular Customer(%)": 0.08,
+  "Senior Citizen(%)": 0.085
+ },
+ {
+  "Bank Name": "Ujjivan Small Finance Bank",
+  "Tenure": "561 days - 990 days",
+  "Regular Customer(%)": 0.0775,
+  "Senior Citizen(%)": 0.0825
+ },
+ {
+  "Bank Name": "Ujjivan Small Finance Bank",
+  "Tenure": "991 days - 60 months",
+  "Regular Customer(%)": 0.072,
+  "Senior Citizen(%)": 0.077
+ },
+ {
+  "Bank Name": "Ujjivan Small Finance Bank",
+  "Tenure": "60 months 1 day - 120 months",
+  "Regular Customer(%)": 0.065,
+  "Senior Citizen(%)": 0.07
+ },
+ {
+  "Bank Name": "Utkarsha Small Finance Bank",
+  "Tenure": "7 days - 45 days",
+  "Regular Customer(%)": 0.04,
+  "Senior Citizen(%)": 0.046
+ },
+ {
+  "Bank Name": "Utkarsha Small Finance Bank",
+  "Tenure": "46 days - 90 days",
+  "Regular Customer(%)": 0.0475,
+  "Senior Citizen(%)": 0.0535
+ },
+ {
+  "Bank Name": "Utkarsha Small Finance Bank",
+  "Tenure": "91 days - 180 days",
+  "Regular Customer(%)": 0.055,
+  "Senior Citizen(%)": 0.061
+ },
+ {
+  "Bank Name": "Utkarsha Small Finance Bank",
+  "Tenure": "181 days - 364 days",
+  "Regular Customer(%)": 0.065,
+  "Senior Citizen(%)": 0.071
+ },
+ {
+  "Bank Name": "Utkarsha Small Finance Bank",
+  "Tenure": "365 days - 699 days",
+  "Regular Customer(%)": 0.08,
+  "Senior Citizen(%)": 0.086
+ },
+ {
+  "Bank Name": "Utkarsha Small Finance Bank",
+  "Tenure": "700 days less than 2 years",
+  "Regular Customer(%)": 0.0825,
+  "Senior Citizen(%)": 0.0885
+ },
+ {
+  "Bank Name": "Utkarsha Small Finance Bank",
+  "Tenure": "2 years - 3 years",
+  "Regular Customer(%)": 0.085,
+  "Senior Citizen(%)": 0.091
+ },
+ {
+  "Bank Name": "Utkarsha Small Finance Bank",
+  "Tenure": "3 years less than 4 years",
+  "Regular Customer(%)": 0.0825,
+  "Senior Citizen(%)": 0.0885
+ },
+ {
+  "Bank Name": "Utkarsha Small Finance Bank",
+  "Tenure": "4 years less than 5 years",
+  "Regular Customer(%)": 0.08,
+  "Senior Citizen(%)": 0.086
+ },
+ {
+  "Bank Name": "Utkarsha Small Finance Bank",
+  "Tenure": "5 years - 10 years",
+  "Regular Customer(%)": 0.075,
+  "Senior Citizen(%)": 0.081
+ },
+ {
+  "Bank Name": "IndusInd Bank",
+  "Tenure": "7 days - 14 days",
+  "Regular Customer(%)": 0.035,
+  "Senior Citizen(%)": 0.04
+ },
+ {
+  "Bank Name": "IndusInd Bank",
+  "Tenure": "15 days - 30 days",
+  "Regular Customer(%)": 0.036,
+  "Senior Citizen(%)": 0.041
+ },
+ {
+  "Bank Name": "IndusInd Bank",
+  "Tenure": "31 days - 45 days",
+  "Regular Customer(%)": 0.045,
+  "Senior Citizen(%)": 0.05
+ },
+ {
+  "Bank Name": "IndusInd Bank",
+  "Tenure": "46 days - 60 days",
+  "Regular Customer(%)": 0.046,
+  "Senior Citizen(%)": 0.051
+ },
+ {
+  "Bank Name": "IndusInd Bank",
+  "Tenure": "61 days - 90 days",
+  "Regular Customer(%)": 0.05,
+  "Senior Citizen(%)": 0.055
+ },
+ {
+  "Bank Name": "IndusInd Bank",
+  "Tenure": "91 days - 120 days",
+  "Regular Customer(%)": 0.055,
+  "Senior Citizen(%)": 0.06
+ },
+ {
+  "Bank Name": "IndusInd Bank",
+  "Tenure": "6 months 1 day - 9 months",
+  "Regular Customer(%)": 0.061,
+  "Senior Citizen(%)": 0.066
+ },
+ {
+  "Bank Name": "Karnataka Bank",
+  "Tenure": "7 days - 45 days",
+  "Regular Customer(%)": 0.036,
+  "Senior Citizen(%)": 0.041
+ },
+ {
+  "Bank Name": "Karnataka Bank",
+  "Tenure": "46 days - 90 days",
+  "Regular Customer(%)": 0.041,
+  "Senior Citizen(%)": 0.046
+ },
+ {
+  "Bank Name": "Karnataka Bank",
+  "Tenure": "91 days - 179 days",
+  "Regular Customer(%)": 0.051,
+  "Senior Citizen(%)": 0.056
+ },
+ {
+  "Bank Name": "Karnataka Bank",
+  "Tenure": "180 days",
+  "Regular Customer(%)": 0.06,
+  "Senior Citizen(%)": 0.066
+ },
+ {
+  "Bank Name": "Karnataka Bank",
+  "Tenure": "181 days - 364 days",
+  "Regular Customer(%)": 0.066,
+  "Senior Citizen(%)": 0.072
+ },
+ {
+  "Bank Name": "Karnataka Bank",
+  "Tenure": "365 days - 399 days",
+  "Regular Customer(%)": 0.0725,
+  "Senior Citizen(%)": 0.0785
+ },
+ {
+  "Bank Name": "Karnataka Bank",
+  "Tenure": "400 days",
+  "Regular Customer(%)": 0.075,
+  "Senior Citizen(%)": 0.081
+ },
+ {
+  "Bank Name": "Karnataka Bank",
+  "Tenure": "401 days - less than 3 years",
+  "Regular Customer(%)": 0.0735,
+  "Senior Citizen(%)": 0.0795
+ },
+ {
+  "Bank Name": "Karnataka Bank",
+  "Tenure": "3 years less than 5 years",
+  "Regular Customer(%)": 0.07,
+  "Senior Citizen(%)": 0.075
+ },
+ {
+  "Bank Name": "Karnataka Bank",
+  "Tenure": "Above 5 years",
+  "Regular Customer(%)": 0.065,
+  "Senior Citizen(%)": 0.071
+ },
+ {
+  "Bank Name": "Jammu and Kashmir Bank",
+  "Tenure": "30 days - 60 days",
+  "Regular Customer(%)": 0.035,
+  "Senior Citizen(%)": 0.04
+ },
+ {
+  "Bank Name": "Jammu and Kashmir Bank",
+  "Tenure": "60 days - 180 days",
+  "Regular Customer(%)": 0.0475,
+  "Senior Citizen(%)": 0.0525
+ },
+ {
+  "Bank Name": "Jammu and Kashmir Bank",
+  "Tenure": "6 months - less than 9 months",
+  "Regular Customer(%)": 0.055,
+  "Senior Citizen(%)": 0.06
+ },
+ {
+  "Bank Name": "Jammu and Kashmir Bank",
+  "Tenure": "9 months - 1 year",
+  "Regular Customer(%)": 0.06,
+  "Senior Citizen(%)": 0.065
+ },
+ {
+  "Bank Name": "Jammu and Kashmir Bank",
+  "Tenure": "1 year - 2 years",
+  "Regular Customer(%)": 0.0725,
+  "Senior Citizen(%)": 0.0775
+ },
+ {
+  "Bank Name": "Jammu and Kashmir Bank",
+  "Tenure": "2 years - 3 years",
+  "Regular Customer(%)": 0.075,
+  "Senior Citizen(%)": 0.08
+ },
+ {
+  "Bank Name": "Standard Chartered Bank",
+  "Tenure": "1 month - 3 months",
+  "Regular Customer(%)": 0.04,
+  "Senior Citizen(%)": 0.045
+ },
+ {
+  "Bank Name": "Standard Chartered Bank",
+  "Tenure": "3 months - 6 months",
+  "Regular Customer(%)": 0.05,
+  "Senior Citizen(%)": 0.055
+ },
+ {
+  "Bank Name": "Standard Chartered Bank",
+  "Tenure": "6 months - 9 months",
+  "Regular Customer(%)": 0.0525,
+  "Senior Citizen(%)": 0.0575
+ },
+ {
+  "Bank Name": "Standard Chartered Bank",
+  "Tenure": "1 year - 2 years",
+  "Regular Customer(%)": 0.07,
+  "Senior Citizen(%)": 0.075
+ },
+ {
+  "Bank Name": "DCB Bank",
+  "Tenure": "7 days - 45 days",
+  "Regular Customer(%)": 0.0375,
+  "Senior Citizen(%)": 0.0425
+ },
+ {
+  "Bank Name": "DCB Bank",
+  "Tenure": "46 days - 90 days",
+  "Regular Customer(%)": 0.04,
+  "Senior Citizen(%)": 0.045
+ },
+ {
+  "Bank Name": "DCB Bank",
+  "Tenure": "91 days - less than 6 months",
+  "Regular Customer(%)": 0.0475,
+  "Senior Citizen(%)": 0.0525
+ },
+ {
+  "Bank Name": "DCB Bank",
+  "Tenure": "6 months - less than 10 months",
+  "Regular Customer(%)": 0.0625,
+  "Senior Citizen(%)": 0.0675
+ },
+ {
+  "Bank Name": "DCB Bank",
+  "Tenure": "10 months - less than 12 months",
+  "Regular Customer(%)": 0.0725,
+  "Senior Citizen(%)": 0.0775
+ },
+ {
+  "Bank Name": "DCB Bank",
+  "Tenure": "12 months",
+  "Regular Customer(%)": 0.0715,
+  "Senior Citizen(%)": 0.0765
+ },
+ {
+  "Bank Name": "DCB Bank",
+  "Tenure": "12 months 1 day - 12 months 10 days",
+  "Regular Customer(%)": 0.0785,
+  "Senior Citizen(%)": 0.0835
+ },
+ {
+  "Bank Name": "DCB Bank",
+  "Tenure": "12 months 11 days - 18 months 5 days",
+  "Regular Customer(%)": 0.0715,
+  "Senior Citizen(%)": 0.0765
+ },
+ {
+  "Bank Name": "DCB Bank",
+  "Tenure": "18 months 6 days - less than 700 days",
+  "Regular Customer(%)": 0.075,
+  "Senior Citizen(%)": 0.08
+ },
+ {
+  "Bank Name": "DCB Bank",
+  "Tenure": "More than 700 days - less than 25 months",
+  "Regular Customer(%)": 0.0755,
+  "Senior Citizen(%)": 0.0805
+ },
+ {
+  "Bank Name": "DCB Bank",
+  "Tenure": "25 months - 26 months",
+  "Regular Customer(%)": 0.08,
+  "Senior Citizen(%)": 0.086
+ },
+ {
+  "Bank Name": "DCB Bank",
+  "Tenure": "More than 26 months - less than 37 months",
+  "Regular Customer(%)": 0.076,
+  "Senior Citizen(%)": 0.081
+ },
+ {
+  "Bank Name": "DCB Bank",
+  "Tenure": "37 months - 38 months",
+  "Regular Customer(%)": 0.079,
+  "Senior Citizen(%)": 0.085
+ },
+ {
+  "Bank Name": "DCB Bank",
+  "Tenure": "More than 38 months - less than 61 months",
+  "Regular Customer(%)": 0.074,
+  "Senior Citizen(%)": 0.079
+ },
+ {
+  "Bank Name": "DCB Bank",
+  "Tenure": "61 months",
+  "Regular Customer(%)": 0.0765,
+  "Senior Citizen(%)": 0.0815
+ },
+ {
+  "Bank Name": "DCB Bank",
+  "Tenure": "More than 61 months - 120 months",
+  "Regular Customer(%)": 0.0725,
+  "Senior Citizen(%)": 0.0775
+ },
+ {
+  "Bank Name": "South Indian Bank",
+  "Tenure": "7 days - 30 days",
+  "Regular Customer(%)": 0.029,
+  "Senior Citizen(%)": 0.034
+ },
+ {
+  "Bank Name": "South Indian Bank",
+  "Tenure": "31 days - 90 days",
+  "Regular Customer(%)": 0.035,
+  "Senior Citizen(%)": 0.04
+ },
+ {
+  "Bank Name": "South Indian Bank",
+  "Tenure": "91 days - 99 days",
+  "Regular Customer(%)": 0.045,
+  "Senior Citizen(%)": 0.05
+ },
+ {
+  "Bank Name": "South Indian Bank",
+  "Tenure": "100 days",
+  "Regular Customer(%)": 0.06,
+  "Senior Citizen(%)": 0.065
+ },
+ {
+  "Bank Name": "South Indian Bank",
+  "Tenure": "101 days - 180 days",
+  "Regular Customer(%)": 0.045,
+  "Senior Citizen(%)": 0.05
+ },
+ {
+  "Bank Name": "South Indian Bank",
+  "Tenure": "181 days - less than 1 year",
+  "Regular Customer(%)": 0.05,
+  "Senior Citizen(%)": 0.055
+ },
+ {
+  "Bank Name": "South Indian Bank",
+  "Tenure": "1 year",
+  "Regular Customer(%)": 0.067,
+  "Senior Citizen(%)": 0.072
+ },
+ {
+  "Bank Name": "South Indian Bank",
+  "Tenure": "1 year 1 day",
+  "Regular Customer(%)": 0.07,
+  "Senior Citizen(%)": 0.075
+ },
+ {
+  "Bank Name": "South Indian Bank",
+  "Tenure": "1 year 2 days - 399 days",
+  "Regular Customer(%)": 0.065,
+  "Senior Citizen(%)": 0.07
+ },
+ {
+  "Bank Name": "South Indian Bank",
+  "Tenure": "400 days",
+  "Regular Customer(%)": 0.074,
+  "Senior Citizen(%)": 0.079
+ },
+ {
+  "Bank Name": "South Indian Bank",
+  "Tenure": "401 days - less than 30 months",
+  "Regular Customer(%)": 0.065,
+  "Senior Citizen(%)": 0.07
+ },
+ {
+  "Bank Name": "South Indian Bank",
+  "Tenure": "30 months",
+  "Regular Customer(%)": 0.07,
+  "Senior Citizen(%)": 0.075
+ },
+ {
+  "Bank Name": "South Indian Bank",
+  "Tenure": "Above 30 months - less than 5 years",
+  "Regular Customer(%)": 0.066,
+  "Senior Citizen(%)": 0.071
+ },
+ {
+  "Bank Name": "South Indian Bank",
+  "Tenure": "5 years - less than 66 months",
+  "Regular Customer(%)": 0.06,
+  "Senior Citizen(%)": 0.065
+ },
+ {
+  "Bank Name": "South Indian Bank",
+  "Tenure": "Above 66 months - 10 years",
+  "Regular Customer(%)": 0.06,
+  "Senior Citizen(%)": 0.065
+ },
+ {
+  "Bank Name": "IDBI",
+  "Tenure": "7 days - 30 days",
+  "Regular Customer(%)": 0.03,
+  "Senior Citizen(%)": 0.035
+ },
+ {
+  "Bank Name": "IDBI",
+  "Tenure": "31 days - 45 days",
+  "Regular Customer(%)": 0.0325,
+  "Senior Citizen(%)": 0.0375
+ },
+ {
+  "Bank Name": "IDBI",
+  "Tenure": "46 days - 60 days",
+  "Regular Customer(%)": 0.045,
+  "Senior Citizen(%)": 0.05
+ },
+ {
+  "Bank Name": "IDBI",
+  "Tenure": "91 days - 6 months",
+  "Regular Customer(%)": 0.055,
+  "Senior Citizen(%)": 0.06
+ },
+ {
+  "Bank Name": "IDBI",
+  "Tenure": "6 months 1 day - 270 days",
+  "Regular Customer(%)": 0.06,
+  "Senior Citizen(%)": 0.065
+ },
+ {
+  "Bank Name": "IDBI",
+  "Tenure": "1 year - 2 years",
+  "Regular Customer(%)": 0.068,
+  "Senior Citizen(%)": 0.073
+ },
+ {
+  "Bank Name": "IDBI",
+  "Tenure": "2 years - less than 3 years",
+  "Regular Customer(%)": 0.07,
+  "Senior Citizen(%)": 0.075
+ },
+ {
+  "Bank Name": "IDBI",
+  "Tenure": "5 years - 10 years",
+  "Regular Customer(%)": 0.0625,
+  "Senior Citizen(%)": 0.0675
+ },
+ {
+  "Bank Name": "IDBI",
+  "Tenure": "10 years - 20 years",
+  "Regular Customer(%)": 0.048,
+  "Senior Citizen(%)": 0.053
+ },
+ {
+  "Bank Name": "IDBI",
+  "Tenure": "61 - 90 days",
+  "Regular Customer(%)": 0.0475,
+  "Senior Citizen(%)": 0.0525
+ },
+ {
+  "Bank Name": "IDBI",
+  "Tenure": "271 days - less than 1 year (Except 300 days)",
+  "Regular Customer(%)": 0.0625,
+  "Senior Citizen(%)": 0.0675
+ },
+ {
+  "Bank Name": "IDBI",
+  "Tenure": "3 years - less than 5 years",
+  "Regular Customer(%)": 0.065,
+  "Senior Citizen(%)": 0.07
+ },
+ {
+  "Bank Name": "Punjab and Sind Bank",
+  "Tenure": "7 days - 14 days",
+  "Regular Customer(%)": 0.028,
+  "Senior Citizen(%)": 0.033
+ },
+ {
+  "Bank Name": "Punjab and Sind Bank",
+  "Tenure": "15 days - 30 days",
+  "Regular Customer(%)": 0.028,
+  "Senior Citizen(%)": 0.033
+ },
+ {
+  "Bank Name": "Punjab and Sind Bank",
+  "Tenure": "31 days - 45 days",
+  "Regular Customer(%)": 0.03,
+  "Senior Citizen(%)": 0.035
+ },
+ {
+  "Bank Name": "Punjab and Sind Bank",
+  "Tenure": "46 days - 90 days",
+  "Regular Customer(%)": 0.0425,
+  "Senior Citizen(%)": 0.0475
+ },
+ {
+  "Bank Name": "Punjab and Sind Bank",
+  "Tenure": "91 days - 120 days",
+  "Regular Customer(%)": 0.0425,
+  "Senior Citizen(%)": 0.0475
+ },
+ {
+  "Bank Name": "Punjab and Sind Bank",
+  "Tenure": "121 days - 150 days",
+  "Regular Customer(%)": 0.0475,
+  "Senior Citizen(%)": 0.0525
+ },
+ {
+  "Bank Name": "Punjab and Sind Bank",
+  "Tenure": "151 days - 179 days",
+  "Regular Customer(%)": 0.0475,
+  "Senior Citizen(%)": 0.0525
+ },
+ {
+  "Bank Name": "Punjab and Sind Bank",
+  "Tenure": "180 days - 269 days",
+  "Regular Customer(%)": 0.0525,
+  "Senior Citizen(%)": 0.0575
+ },
+ {
+  "Bank Name": "Punjab and Sind Bank",
+  "Tenure": "270 days - less than 1 year",
+  "Regular Customer(%)": 0.055,
+  "Senior Citizen(%)": 0.06
+ },
+ {
+  "Bank Name": "Punjab and Sind Bank",
+  "Tenure": "1 year",
+  "Regular Customer(%)": 0.062,
+  "Senior Citizen(%)": 0.067
+ },
+ {
+  "Bank Name": "Punjab and Sind Bank",
+  "Tenure": "More than 1 year - 443 days",
+  "Regular Customer(%)": 0.06,
+  "Senior Citizen(%)": 0.065
+ },
+ {
+  "Bank Name": "Punjab and Sind Bank",
+  "Tenure": "445 days - 2 years",
+  "Regular Customer(%)": 0.06,
+  "Senior Citizen(%)": 0.065
+ },
+ {
+  "Bank Name": "Punjab and Sind Bank",
+  "Tenure": "Above 2 years - less than 3 years",
+  "Regular Customer(%)": 0.063,
+  "Senior Citizen(%)": 0.068
+ },
+ {
+  "Bank Name": "Punjab and Sind Bank",
+  "Tenure": "3 years - 5 years",
+  "Regular Customer(%)": 0.06,
+  "Senior Citizen(%)": 0.065
+ },
+ {
+  "Bank Name": "Punjab and Sind Bank",
+  "Tenure": "More than 5 years - 10 years",
+  "Regular Customer(%)": 0.0625,
+  "Senior Citizen(%)": 0.0675
+ },
+ {
+  "Bank Name": "HSBC Bank",
+  "Tenure": "7 Days",
+  "Regular Customer(%)": 0.0285,
+  "Senior Citizen(%)": 0.0335
+ },
+ {
+  "Bank Name": "HSBC Bank",
+  "Tenure": "8 Days",
+  "Regular Customer(%)": 0.0285,
+  "Senior Citizen(%)": 0.0335
+ },
+ {
+  "Bank Name": "HSBC Bank",
+  "Tenure": "9 to 14 Days",
+  "Regular Customer(%)": 0.03,
+  "Senior Citizen(%)": 0.035
+ },
+ {
+  "Bank Name": "HSBC Bank",
+  "Tenure": "15 to 29 days",
+  "Regular Customer(%)": 0.03,
+  "Senior Citizen(%)": 0.035
+ },
+ {
+  "Bank Name": "HSBC Bank",
+  "Tenure": "30 to 59 Days",
+  "Regular Customer(%)": 0.034,
+  "Senior Citizen(%)": 0.039
+ },
+ {
+  "Bank Name": "HSBC Bank",
+  "Tenure": "60 to 89 Days",
+  "Regular Customer(%)": 0.036,
+  "Senior Citizen(%)": 0.041
+ },
+ {
+  "Bank Name": "HSBC Bank",
+  "Tenure": "90 to 93 Days",
+  "Regular Customer(%)": 0.038,
+  "Senior Citizen(%)": 0.043
+ },
+ {
+  "Bank Name": "HSBC Bank",
+  "Tenure": "94 Days",
+  "Regular Customer(%)": 0.038,
+  "Senior Citizen(%)": 0.043
+ },
+ {
+  "Bank Name": "HSBC Bank",
+  "Tenure": "95 to 179 Days",
+  "Regular Customer(%)": 0.04,
+  "Senior Citizen(%)": 0.045
+ },
+ {
+  "Bank Name": "HSBC Bank",
+  "Tenure": "180 Days",
+  "Regular Customer(%)": 0.045,
+  "Senior Citizen(%)": 0.05
+ },
+ {
+  "Bank Name": "HSBC Bank",
+  "Tenure": "181 to 269 Days",
+  "Regular Customer(%)": 0.0325,
+  "Senior Citizen(%)": 0.0375
+ },
+ {
+  "Bank Name": "HSBC Bank",
+  "Tenure": "270 to 364 Days",
+  "Regular Customer(%)": 0.037,
+  "Senior Citizen(%)": 0.042
+ },
+ {
+  "Bank Name": "HSBC Bank",
+  "Tenure": "365 Days",
+  "Regular Customer(%)": 0.04,
+  "Senior Citizen(%)": 0.045
+ },
+ {
+  "Bank Name": "HSBC Bank",
+  "Tenure": "366 Days to 399 Days",
+  "Regular Customer(%)": 0.04,
+  "Senior Citizen(%)": 0.045
+ },
+ {
+  "Bank Name": "HSBC Bank",
+  "Tenure": "400 days",
+  "Regular Customer(%)": 0.0325,
+  "Senior Citizen(%)": 0.0375
+ },
+ {
+  "Bank Name": "HSBC Bank",
+  "Tenure": "401 days to less than 18 months",
+  "Regular Customer(%)": 0.0625,
+  "Senior Citizen(%)": 0.0675
+ },
+ {
+  "Bank Name": "HSBC Bank",
+  "Tenure": "18 months to 599 days",
+  "Regular Customer(%)": 0.041,
+  "Senior Citizen(%)": 0.046
+ },
+ {
+  "Bank Name": "HSBC Bank",
+  "Tenure": "600 days",
+  "Regular Customer(%)": 0.0375,
+  "Senior Citizen(%)": 0.0425
+ },
+ {
+  "Bank Name": "HSBC Bank",
+  "Tenure": "601 to 699 days",
+  "Regular Customer(%)": 0.033,
+  "Senior Citizen(%)": 0.038
+ },
+ {
+  "Bank Name": "HSBC Bank",
+  "Tenure": "700 days",
+  "Regular Customer(%)": 0.0375,
+  "Senior Citizen(%)": 0.0425
+ },
+ {
+  "Bank Name": "HSBC Bank",
+  "Tenure": "701 to 730 days",
+  "Regular Customer(%)": 0.0375,
+  "Senior Citizen(%)": 0.0425
+ },
+ {
+  "Bank Name": "HSBC Bank",
+  "Tenure": "731 days to less than 3 years",
+  "Regular Customer(%)": 0.045,
+  "Senior Citizen(%)": 0.05
+ },
+ {
+  "Bank Name": "HSBC Bank",
+  "Tenure": "3 years",
+  "Regular Customer(%)": 0.03,
+  "Senior Citizen(%)": 0.035
+ },
+ {
+  "Bank Name": "HSBC Bank",
+  "Tenure": "Above 3 years - 5 years",
+  "Regular Customer(%)": 0.035,
+  "Senior Citizen(%)": 0.04
+ },
+ {
+  "Bank Name": "HSBC Bank",
+  "Tenure": "Above 5 years",
+  "Regular Customer(%)": 0.03,
+  "Senior Citizen(%)": 0.035
+ },
+ {
+  "Bank Name": "Bank of Maharashtra",
+  "Tenure": "7 days - 30 days",
+  "Regular Customer(%)": 0.0275,
+  "Senior Citizen(%)": 0.0325
+ },
+ {
+  "Bank Name": "Bank of Maharashtra",
+  "Tenure": "31 days - 45 days",
+  "Regular Customer(%)": 0.03,
+  "Senior Citizen(%)": 0.035
+ },
+ {
+  "Bank Name": "Bank of Maharashtra",
+  "Tenure": "46 days - 90 days",
+  "Regular Customer(%)": 0.0475,
+  "Senior Citizen(%)": 0.0525
+ },
+ {
+  "Bank Name": "Bank of Maharashtra",
+  "Tenure": "91 days - 119 days",
+  "Regular Customer(%)": 0.049,
+  "Senior Citizen(%)": 0.054
+ },
+ {
+  "Bank Name": "Bank of Maharashtra",
+  "Tenure": "120 days - 180 days",
+  "Regular Customer(%)": 0.051,
+  "Senior Citizen(%)": 0.056
+ },
+ {
+  "Bank Name": "Bank of Maharashtra",
+  "Tenure": "181 days - 270 days",
+  "Regular Customer(%)": 0.055,
+  "Senior Citizen(%)": 0.06
+ },
+ {
+  "Bank Name": "Bank of Maharashtra",
+  "Tenure": "271 days - 364 days",
+  "Regular Customer(%)": 0.056,
+  "Senior Citizen(%)": 0.061
+ },
+ {
+  "Bank Name": "Bank of Maharashtra",
+  "Tenure": "365 days (1 year)",
+  "Regular Customer(%)": 0.065,
+  "Senior Citizen(%)": 0.07
+ },
+ {
+  "Bank Name": "Bank of Maharashtra",
+  "Tenure": "Over 1 year - 2 years",
+  "Regular Customer(%)": 0.0625,
+  "Senior Citizen(%)": 0.0675
+ },
+ {
+  "Bank Name": "Bank of Maharashtra",
+  "Tenure": "Over 2 years - 3 years",
+  "Regular Customer(%)": 0.0625,
+  "Senior Citizen(%)": 0.0675
+ },
+ {
+  "Bank Name": "Bank of Maharashtra",
+  "Tenure": "Over 3 years - 5 years",
+  "Regular Customer(%)": 0.06,
+  "Senior Citizen(%)": 0.065
+ },
+ {
+  "Bank Name": "Bank of Maharashtra",
+  "Tenure": "5 years & above",
+  "Regular Customer(%)": 0.06,
+  "Senior Citizen(%)": 0.065
+ },
+ {
+  "Bank Name": "Bank of Maharashtra",
+  "Tenure": "271 days - 364 days",
+  "Regular Customer(%)": 0.056,
+  "Senior Citizen(%)": 0.061
+ },
+ {
+  "Bank Name": "Central Bank of India",
+  "Tenure": "7 days - 14 days",
+  "Regular Customer(%)": 0.035,
+  "Senior Citizen(%)": 0.04
+ },
+ {
+  "Bank Name": "Central Bank of India",
+  "Tenure": "15 days - 30 days",
+  "Regular Customer(%)": 0.0375,
+  "Senior Citizen(%)": 0.0425
+ },
+ {
+  "Bank Name": "Central Bank of India",
+  "Tenure": "31 days - 45 days",
+  "Regular Customer(%)": 0.0375,
+  "Senior Citizen(%)": 0.0425
+ },
+ {
+  "Bank Name": "Central Bank of India",
+  "Tenure": "46 days - 59 days",
+  "Regular Customer(%)": 0.045,
+  "Senior Citizen(%)": 0.05
+ },
+ {
+  "Bank Name": "Central Bank of India",
+  "Tenure": "60 days - 90 days",
+  "Regular Customer(%)": 0.0475,
+  "Senior Citizen(%)": 0.0525
+ },
+ {
+  "Bank Name": "Central Bank of India",
+  "Tenure": "91 days - 179 days",
+  "Regular Customer(%)": 0.05,
+  "Senior Citizen(%)": 0.055
+ },
+ {
+  "Bank Name": "Central Bank of India",
+  "Tenure": "180 days - 270 days",
+  "Regular Customer(%)": 0.06,
+  "Senior Citizen(%)": 0.065
+ },
+ {
+  "Bank Name": "Central Bank of India",
+  "Tenure": "271 days - 364 days",
+  "Regular Customer(%)": 0.0625,
+  "Senior Citizen(%)": 0.0675
+ },
+ {
+  "Bank Name": "Central Bank of India",
+  "Tenure": "1 year - less than 2 years",
+  "Regular Customer(%)": 0.0675,
+  "Senior Citizen(%)": 0.0725
+ },
+ {
+  "Bank Name": "Central Bank of India",
+  "Tenure": "2 years - less than 3 years",
+  "Regular Customer(%)": 0.07,
+  "Senior Citizen(%)": 0.075
+ },
+ {
+  "Bank Name": "Central Bank of India",
+  "Tenure": "3 years - less than 5 years",
+  "Regular Customer(%)": 0.065,
+  "Senior Citizen(%)": 0.07
+ },
+ {
+  "Bank Name": "Central Bank of India",
+  "Tenure": "5 years - 10 years",
+  "Regular Customer(%)": 0.0625,
+  "Senior Citizen(%)": 0.0675
+ },
+ {
+  "Bank Name": "Kotak Mahindra Bank",
+  "Tenure": "7 days - 14 Days",
+  "Regular Customer(%)": 0.0275,
+  "Senior Citizen(%)": 0.0325
+ },
+ {
+  "Bank Name": "Kotak Mahindra Bank",
+  "Tenure": "15 days - 30 Days",
+  "Regular Customer(%)": 0.03,
+  "Senior Citizen(%)": 0.035
+ },
+ {
+  "Bank Name": "Kotak Mahindra Bank",
+  "Tenure": "31 days - 45 Days",
+  "Regular Customer(%)": 0.0325,
+  "Senior Citizen(%)": 0.0375
+ },
+ {
+  "Bank Name": "Kotak Mahindra Bank",
+  "Tenure": "46 days - 90 Days",
+  "Regular Customer(%)": 0.035,
+  "Senior Citizen(%)": 0.04
+ },
+ {
+  "Bank Name": "Kotak Mahindra Bank",
+  "Tenure": "91 days - 120 Days",
+  "Regular Customer(%)": 0.04,
+  "Senior Citizen(%)": 0.045
+ },
+ {
+  "Bank Name": "Kotak Mahindra Bank",
+  "Tenure": "121 days - 179 Days",
+  "Regular Customer(%)": 0.0425,
+  "Senior Citizen(%)": 0.0475
+ },
+ {
+  "Bank Name": "Kotak Mahindra Bank",
+  "Tenure": "180 Days",
+  "Regular Customer(%)": 0.07,
+  "Senior Citizen(%)": 0.075
+ },
+ {
+  "Bank Name": "Kotak Mahindra Bank",
+  "Tenure": "181 Days - 269 Days",
+  "Regular Customer(%)": 0.06,
+  "Senior Citizen(%)": 0.065
+ },
+ {
+  "Bank Name": "Kotak Mahindra Bank",
+  "Tenure": "270 Days",
+  "Regular Customer(%)": 0.06,
+  "Senior Citizen(%)": 0.065
+ },
+ {
+  "Bank Name": "Kotak Mahindra Bank",
+  "Tenure": "271 Days - 363 Days",
+  "Regular Customer(%)": 0.06,
+  "Senior Citizen(%)": 0.065
+ },
+ {
+  "Bank Name": "Kotak Mahindra Bank",
+  "Tenure": "364 Days",
+  "Regular Customer(%)": 0.065,
+  "Senior Citizen(%)": 0.07
+ },
+ {
+  "Bank Name": "Kotak Mahindra Bank",
+  "Tenure": "365 Days - 389 Days",
+  "Regular Customer(%)": 0.071,
+  "Senior Citizen(%)": 0.076
+ },
+ {
+  "Bank Name": "Kotak Mahindra Bank",
+  "Tenure": "390 Days (12 months 25 days)",
+  "Regular Customer(%)": 0.0715,
+  "Senior Citizen(%)": 0.0765
+ },
+ {
+  "Bank Name": "Kotak Mahindra Bank",
+  "Tenure": "391 Days - Less than 23 Months",
+  "Regular Customer(%)": 0.072,
+  "Senior Citizen(%)": 0.077
+ },
+ {
+  "Bank Name": "Kotak Mahindra Bank",
+  "Tenure": "23 Months",
+  "Regular Customer(%)": 0.0725,
+  "Senior Citizen(%)": 0.0775
+ },
+ {
+  "Bank Name": "Kotak Mahindra Bank",
+  "Tenure": "23 months 1 Day - less than 2 years",
+  "Regular Customer(%)": 0.0725,
+  "Senior Citizen(%)": 0.078
+ },
+ {
+  "Bank Name": "Kotak Mahindra Bank",
+  "Tenure": "2 years - less than 3 years",
+  "Regular Customer(%)": 0.0715,
+  "Senior Citizen(%)": 0.0765
+ },
+ {
+  "Bank Name": "Kotak Mahindra Bank",
+  "Tenure": "3 years and above but less than 4 years",
+  "Regular Customer(%)": 0.07,
+  "Senior Citizen(%)": 0.076
+ },
+ {
+  "Bank Name": "Kotak Mahindra Bank",
+  "Tenure": "4 years and above but less than 5 years",
+  "Regular Customer(%)": 0.07,
+  "Senior Citizen(%)": 0.076
+ },
+ {
+  "Bank Name": "Kotak Mahindra Bank",
+  "Tenure": "5 years and above up to and inclusive of 10 years",
+  "Regular Customer(%)": 0.062,
+  "Senior Citizen(%)": 0.067
+ },
+ {
+  "Bank Name": "Citibank",
+  "Tenure": "7 to 10 days",
+  "Regular Customer(%)": 0.021,
+  "Senior Citizen(%)": 0.026
+ },
+ {
+  "Bank Name": "Citibank",
+  "Tenure": "11 to 14 days",
+  "Regular Customer(%)": 0.021,
+  "Senior Citizen(%)": 0.026
+ },
+ {
+  "Bank Name": "Citibank",
+  "Tenure": "15 to 25 days",
+  "Regular Customer(%)": 0.0215,
+  "Senior Citizen(%)": 0.0265
+ },
+ {
+  "Bank Name": "Citibank",
+  "Tenure": "26 to 35 days",
+  "Regular Customer(%)": 0.0215,
+  "Senior Citizen(%)": 0.0265
+ },
+ {
+  "Bank Name": "Citibank",
+  "Tenure": "36 to 45 days",
+  "Regular Customer(%)": 0.03,
+  "Senior Citizen(%)": 0.035
+ },
+ {
+  "Bank Name": "Citibank",
+  "Tenure": "46 to 90 days",
+  "Regular Customer(%)": 0.03,
+  "Senior Citizen(%)": 0.035
+ },
+ {
+  "Bank Name": "Citibank",
+  "Tenure": "91 to 120 days",
+  "Regular Customer(%)": 0.03,
+  "Senior Citizen(%)": 0.035
+ },
+ {
+  "Bank Name": "Citibank",
+  "Tenure": "121 to 150 days",
+  "Regular Customer(%)": 0.03,
+  "Senior Citizen(%)": 0.035
+ },
+ {
+  "Bank Name": "Citibank",
+  "Tenure": "151 to 180 days",
+  "Regular Customer(%)": 0.03,
+  "Senior Citizen(%)": 0.035
+ },
+ {
+  "Bank Name": "Citibank",
+  "Tenure": "181 to 270 days",
+  "Regular Customer(%)": 0.03,
+  "Senior Citizen(%)": 0.035
+ },
+ {
+  "Bank Name": "Citibank",
+  "Tenure": "271 days to 364 days",
+  "Regular Customer(%)": 0.03,
+  "Senior Citizen(%)": 0.035
+ },
+ {
+  "Bank Name": "Citibank",
+  "Tenure": "365 to 400 days",
+  "Regular Customer(%)": 0.03,
+  "Senior Citizen(%)": 0.035
+ },
+ {
+  "Bank Name": "Citibank",
+  "Tenure": "401 to 540 days",
+  "Regular Customer(%)": 0.03,
+  "Senior Citizen(%)": 0.035
+ },
+ {
+  "Bank Name": "Citibank",
+  "Tenure": "541 to 731 days",
+  "Regular Customer(%)": 0.03,
+  "Senior Citizen(%)": 0.035
+ },
+ {
+  "Bank Name": "Citibank",
+  "Tenure": "732 to 1095 days",
+  "Regular Customer(%)": 0.03,
+  "Senior Citizen(%)": 0.035
+ },
+ {
+  "Bank Name": "Citibank",
+  "Tenure": "More than 1096 days",
+  "Regular Customer(%)": 0.03,
+  "Senior Citizen(%)": 0.035
+ },
+ {
+  "Bank Name": "Axis Bank",
+  "Tenure": "7 days - 14 days",
+  "Regular Customer(%)": 0.03,
+  "Senior Citizen(%)": 0.035
+ },
+ {
+  "Bank Name": "Axis Bank",
+  "Tenure": "15 days - 29 days",
+  "Regular Customer(%)": 0.03,
+  "Senior Citizen(%)": 0.035
+ },
+ {
+  "Bank Name": "Axis Bank",
+  "Tenure": "30 days - 45 days",
+  "Regular Customer(%)": 0.035,
+  "Senior Citizen(%)": 0.04
+ },
+ {
+  "Bank Name": "Axis Bank",
+  "Tenure": "46 days - 60 days",
+  "Regular Customer(%)": 0.0425,
+  "Senior Citizen(%)": 0.0475
+ },
+ {
+  "Bank Name": "Axis Bank",
+  "Tenure": "61 days - < 3 months",
+  "Regular Customer(%)": 0.045,
+  "Senior Citizen(%)": 0.05
+ },
+ {
+  "Bank Name": "Axis Bank",
+  "Tenure": "3 months - < 4 months",
+  "Regular Customer(%)": 0.0475,
+  "Senior Citizen(%)": 0.0525
+ },
+ {
+  "Bank Name": "Axis Bank",
+  "Tenure": "4 months - < 5 months",
+  "Regular Customer(%)": 0.0475,
+  "Senior Citizen(%)": 0.0525
+ },
+ {
+  "Bank Name": "Axis Bank",
+  "Tenure": "5 months - < 6 months",
+  "Regular Customer(%)": 0.0475,
+  "Senior Citizen(%)": 0.0525
+ },
+ {
+  "Bank Name": "Axis Bank",
+  "Tenure": "6 months - < 7 months",
+  "Regular Customer(%)": 0.0575,
+  "Senior Citizen(%)": 0.0625
+ },
+ {
+  "Bank Name": "Axis Bank",
+  "Tenure": "7 months - < 8 months",
+  "Regular Customer(%)": 0.0575,
+  "Senior Citizen(%)": 0.0625
+ },
+ {
+  "Bank Name": "Axis Bank",
+  "Tenure": "8 months - < 9 months",
+  "Regular Customer(%)": 0.0575,
+  "Senior Citizen(%)": 0.0625
+ },
+ {
+  "Bank Name": "Axis Bank",
+  "Tenure": "9 months - < 10 months",
+  "Regular Customer(%)": 0.06,
+  "Senior Citizen(%)": 0.065
+ },
+ {
+  "Bank Name": "Axis Bank",
+  "Tenure": "10 months - < 11 months",
+  "Regular Customer(%)": 0.06,
+  "Senior Citizen(%)": 0.065
+ },
+ {
+  "Bank Name": "Axis Bank",
+  "Tenure": "11 months - < 11 months 24 days",
+  "Regular Customer(%)": 0.06,
+  "Senior Citizen(%)": 0.065
+ },
+ {
+  "Bank Name": "Axis Bank",
+  "Tenure": "11 months 25 days - < 1 year",
+  "Regular Customer(%)": 0.06,
+  "Senior Citizen(%)": 0.065
+ },
+ {
+  "Bank Name": "Axis Bank",
+  "Tenure": "1 year - < 1 year 4 days",
+  "Regular Customer(%)": 0.067,
+  "Senior Citizen(%)": 0.072
+ },
+ {
+  "Bank Name": "Axis Bank",
+  "Tenure": "1 year 5 days - < 1 year 10 days",
+  "Regular Customer(%)": 0.067,
+  "Senior Citizen(%)": 0.072
+ },
+ {
+  "Bank Name": "Axis Bank",
+  "Tenure": "1 year 11 days - < 1 year 24 days",
+  "Regular Customer(%)": 0.067,
+  "Senior Citizen(%)": 0.072
+ },
+ {
+  "Bank Name": "Axis Bank",
+  "Tenure": "1 year 25 days - < 13 months",
+  "Regular Customer(%)": 0.067,
+  "Senior Citizen(%)": 0.072
+ },
+ {
+  "Bank Name": "Axis Bank",
+  "Tenure": "13 months - < 14 months",
+  "Regular Customer(%)": 0.067,
+  "Senior Citizen(%)": 0.072
+ },
+ {
+  "Bank Name": "Axis Bank",
+  "Tenure": "14 months - < 15 months",
+  "Regular Customer(%)": 0.067,
+  "Senior Citizen(%)": 0.072
+ },
+ {
+  "Bank Name": "Axis Bank",
+  "Tenure": "15 months - < 16 months",
+  "Regular Customer(%)": 0.0725,
+  "Senior Citizen(%)": 0.0775
+ },
+ {
+  "Bank Name": "Axis Bank",
+  "Tenure": "16 months - < 17 months",
+  "Regular Customer(%)": 0.0725,
+  "Senior Citizen(%)": 0.0775
+ },
+ {
+  "Bank Name": "Axis Bank",
+  "Tenure": "17 months - < 18 months",
+  "Regular Customer(%)": 0.0725,
+  "Senior Citizen(%)": 0.0775
+ },
+ {
+  "Bank Name": "Axis Bank",
+  "Tenure": "18 months - < 2 years",
+  "Regular Customer(%)": 0.0725,
+  "Senior Citizen(%)": 0.0775
+ },
+ {
+  "Bank Name": "Axis Bank",
+  "Tenure": "2 years - 30 months",
+  "Regular Customer(%)": 0.071,
+  "Senior Citizen(%)": 0.076
+ },
+ {
+  "Bank Name": "Axis Bank",
+  "Tenure": "30 months - < 3 years",
+  "Regular Customer(%)": 0.071,
+  "Senior Citizen(%)": 0.076
+ },
+ {
+  "Bank Name": "Axis Bank",
+  "Tenure": "3 years - < 5 years",
+  "Regular Customer(%)": 0.071,
+  "Senior Citizen(%)": 0.076
+ },
+ {
+  "Bank Name": "Axis Bank",
+  "Tenure": "5 years - 10 years",
+  "Regular Customer(%)": 0.07,
+  "Senior Citizen(%)": 0.0775
+ },
+ {
+  "Bank Name": "LIC",
+  "Tenure": "1 Year",
+  "Regular Customer(%)": 0.0725,
+  "Senior Citizen(%)": 0.075
+ },
+ {
+  "Bank Name": "LIC",
+  "Tenure": "18 Months",
+  "Regular Customer(%)": 0.0735,
+  "Senior Citizen(%)": 0.076
+ },
+ {
+  "Bank Name": "LIC",
+  "Tenure": "2 Years",
+  "Regular Customer(%)": 0.076,
+  "Senior Citizen(%)": 0.0785
+ },
+ {
+  "Bank Name": "LIC",
+  "Tenure": "3 Years",
+  "Regular Customer(%)": 0.0775,
+  "Senior Citizen(%)": 0.08
+ },
+ {
+  "Bank Name": "LIC",
+  "Tenure": "5 Years",
+  "Regular Customer(%)": 0.0775,
+  "Senior Citizen(%)": 0.08
+ }
+]

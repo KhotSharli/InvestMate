@@ -1,0 +1,50 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+/app/(dashboard)/stockmarket/new
+/app/(dashboard)/MF/model_final.pkl
+/app/(dashboard)/MF/model_weights.h5
+/app/(dashboard)/MF/mutual_fund_model.pkl
+/app/(dashboard)/cluster_mapping_new.pkl
+/app/(dashboard)/combined_df_new.pkl
+/app/(dashboard)/expected_columns_new.pkl
+/app/(dashboard)/investment_clusters_new.pkl
+/app/(dashboard)/knn_model_new.pkl
+/app/(dashboard)/pca.pkl
+/app/(dashboard)/scaler.pkl
+/app/(dashboard)/ask-gemini/ask-gemini
+/app/(dashboard)/ask-gemini/Ask_gemini(best).ipynb
+/app/(dashboard)/ask-gemini/Ask_gemini(good).ipynb
+/.pnp
+.pnp.js
+.yarn/install-state.gz
+
+# testing
+/coverage
+
+# next.js
+/.next/
+/out/
+
+# production
+/build
+
+# misc
+.DS_Store
+*.pem
+
+# debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# local env files
+.env*.local
+
+# vercel
+.vercel
+
+# typescript
+*.tsbuildinfo
+next-env.d.ts
